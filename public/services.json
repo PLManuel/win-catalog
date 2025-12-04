@@ -1,0 +1,2064 @@
+[
+  {
+    "id": "servicio01",
+    "nombre": "Internet Hogar 100% Fibra Óptica (FTTH)",
+    "alcance": "Residencial",
+    "categoria": "Conectividad fija",
+    "descripcion": "Acceso a internet de banda ancha para el hogar con fibra óptica hasta la casa (FTTH), con velocidades simétricas y alta estabilidad para varios dispositivos.",
+    "imagen": "/images/internet_hogar_ftth.jpg",
+    "imagen_secundaria": "/images/internet_hogar_ftth_2.jpg",
+    "icon": "🌐",
+    "caracteristicas": [
+      "Velocidades simétricas de alta estabilidad",
+      "Ideal para varios dispositivos",
+      "Conexión confiable 24/7"
+    ],
+    "descripcion_detallada": "Nuestro servicio de Internet Hogar 100% Fibra Óptica ofrece velocidades simétricas tanto para descarga como para subida, ideal para hogares con múltiples dispositivos conectados simultáneamente. La tecnología FTTH (Fiber to the Home) garantiza una conexión estable, sin interferencias, que te permite disfrutar de una experiencia de navegación rápida y sin interrupciones. Olvídate de las caídas de señal y disfruta de una conexión directa desde la central hasta tu hogar, sin depender de cables de cobre o tecnología inalámbrica intermedia.",
+    "requisitos_tecnicos": [
+      "Disponibilidad de cobertura FTTH en la zona",
+      "Router o módem compatible con fibra óptica (proporcionado por WIN)",
+      "Dispositivos con capacidad para soportar conexiones de alta velocidad",
+      "Toma eléctrica cercana al punto de instalación"
+    ],
+    "beneficios": [
+      "Alta velocidad y estabilidad para todas las actividades online: navegación, streaming, videollamadas.",
+      "Conexión confiable para hogares con múltiples dispositivos.",
+      "Mayor rendimiento en comparación con otras tecnologías de banda ancha.",
+      "Velocidades simétricas: misma velocidad de subida y bajada.",
+      "Sin interferencias electromagnéticas ni degradación de señal por distancia."
+    ],
+    "casos_de_uso": [
+      "Ideal para familias con varios usuarios que necesitan conexión para trabajar, estudiar y disfrutar de contenido en línea sin interrupciones.",
+      "Perfecto para hogares que utilizan servicios de streaming en HD/4K, videojuegos online o videollamadas frecuentes.",
+      "Excelente opción para el teletrabajo y clases virtuales simultáneas."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual mediante tarjeta de crédito/débito.",
+      "Opción de pago en puntos de venta autorizados.",
+      "Pago a través de la App Mi WIN.",
+      "Pago con Yape o mediante bancos asociados."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Carlos Mendoza",
+        "comentario": "La conexión es rápida y estable, incluso con varios dispositivos conectados. ¡Una gran mejora con respecto a mi antiguo servicio!"
+      },
+      {
+        "cliente": "Ana Torres",
+        "comentario": "Ahora puedo hacer videollamadas sin interrupciones, y mis hijos juegan videojuegos en línea sin problemas."
+      },
+      {
+        "cliente": "Roberto Sánchez",
+        "comentario": "Trabajo desde casa y nunca he tenido cortes de internet. La fibra óptica de WIN es muy confiable y el soporte técnico responde rápido."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Es necesaria una instalación especial?",
+        "respuesta": "Sí, nuestro equipo técnico realizará la instalación de la fibra óptica hasta tu hogar. Esta instalación es completamente gratuita y se coordina según tu disponibilidad."
+      },
+      {
+        "pregunta": "¿Puedo usar mi router actual?",
+        "respuesta": "Para obtener el mejor rendimiento, te recomendamos usar el router compatible con fibra óptica que WIN proporciona. Sin embargo, puedes conectar tu router propio como punto de acceso adicional."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo demora la instalación?",
+        "respuesta": "La instalación generalmente se realiza en un plazo de 3 a 7 días hábiles después de confirmar la disponibilidad de cobertura en tu zona. El proceso de instalación en tu hogar toma aproximadamente 2 horas."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar ahora",
+        "url": "/contratar-internet-hogar-ftth"
+      },
+      {
+        "texto": "Ver planes disponibles",
+        "url": "/planes-internet-hogar"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Cumplimiento con las normativas de seguridad de telecomunicaciones en Perú.",
+      "Monitoreo continuo de la red para garantizar la calidad del servicio.",
+      "Infraestructura certificada y respaldada por OSIPTEL."
+    ]
+  },
+  {
+    "id": "servicio02",
+    "nombre": "Planes XGSPON",
+    "alcance": "Residencial",
+    "categoria": "Internet de alta velocidad",
+    "descripcion": "Planes específicos de internet hogar basados en tecnología XGSPON que permiten velocidades muy altas sobre fibra, pensados para usuarios exigentes.",
+    "imagen": "/images/planes_xgspon.jpg",
+    "imagen_secundaria": "/images/planes_xgspon_2.jpg",
+    "icon": "⚡",
+    "caracteristicas": [
+      "Velocidades muy altas sobre fibra",
+      "Tecnología de última generación",
+      "Rendimiento óptimo para streaming y gaming"
+    ],
+    "descripcion_detallada": "Los planes XGSPON están diseñados para usuarios que requieren una conexión de ultra alta velocidad. Con tecnología de vanguardia sobre fibra óptica, estos planes garantizan velocidades superiores para actividades intensivas como el streaming en 4K/8K, gaming online competitivo y trabajo remoto con grandes cargas de datos. La tecnología XGSPON (10-Gigabit-capable Symmetric Passive Optical Network) representa la evolución más avanzada en redes de fibra óptica, ofreciendo capacidades simétricas de hasta 10 Gbps que superan ampliamente las tecnologías tradicionales.",
+    "requisitos_tecnicos": [
+      "Cobertura XGSPON disponible en tu zona",
+      "Router de alta capacidad compatible con XGSPON (proporcionado por WIN)",
+      "Dispositivos compatibles con WiFi 6 o conexión Ethernet Gigabit para máximo rendimiento",
+      "Cableado Cat6 o superior para conexiones por cable óptimas"
+    ],
+    "beneficios": [
+      "Velocidades extremadamente rápidas de hasta 10 Gbps para usuarios avanzados.",
+      "Rendimiento sin latencia para experiencias de streaming 4K/8K y gaming ininterrumpidas.",
+      "Ideal para hogares con múltiples usuarios que requieren de alto ancho de banda simultáneo.",
+      "Preparado para el futuro: tecnología escalable para las demandas de mañana.",
+      "Descargas de archivos pesados en segundos y subida de contenido a la nube instantánea."
+    ],
+    "casos_de_uso": [
+      "Para usuarios que requieren rendimiento de internet para videoconferencias en alta calidad, gaming competitivo profesional o trabajo remoto con grandes cargas de datos.",
+      "Perfecto para quienes buscan una experiencia de entretenimiento de alta definición 4K/8K sin interrupciones ni buffering.",
+      "Ideal para creadores de contenido que suben videos pesados a plataformas como YouTube o Twitch."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual mediante tarjeta de crédito/débito.",
+      "Pago a través de la App Mi WIN.",
+      "Pago con Yape siguiendo el flujo de servicios.",
+      "Débito automático mensual con descuento especial."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Juan Carlos Herrera",
+        "comentario": "El rendimiento es increíble. Puedo ver series en 4K sin buffering y jugar videojuegos en línea sin latencia. Mis streams en Twitch nunca se cortan."
+      },
+      {
+        "cliente": "María Fernanda López",
+        "comentario": "Como editora de video, necesito subir archivos enormes a la nube. Con XGSPON, lo que antes tomaba horas ahora toma minutos. Totalmente vale la pena."
+      },
+      {
+        "cliente": "Diego Ramírez",
+        "comentario": "Somos 5 en casa y todos podemos hacer streaming, videollamadas y gaming al mismo tiempo sin ningún problema. La velocidad es impresionante."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto tiempo tarda la instalación?",
+        "respuesta": "La instalación puede tardar entre 3 a 5 días hábiles dependiendo de la disponibilidad técnica en tu área. El proceso de instalación en el hogar toma aproximadamente 2-3 horas."
+      },
+      {
+        "pregunta": "¿Necesito equipos especiales para aprovechar la velocidad XGSPON?",
+        "respuesta": "WIN proporciona un router de alta capacidad compatible. Para máximo rendimiento, recomendamos dispositivos con WiFi 6 o conexión por cable Ethernet Gigabit."
+      },
+      {
+        "pregunta": "¿Cuál es la diferencia entre XGSPON y la fibra óptica tradicional?",
+        "respuesta": "XGSPON ofrece velocidades hasta 10 veces mayores que la fibra tradicional GPON, con capacidad simétrica de hasta 10 Gbps. Es la tecnología más avanzada disponible para hogares."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar Plan XGSPON",
+        "url": "/contratar-planes-xgspon"
+      },
+      {
+        "texto": "Comparar planes de alta velocidad",
+        "url": "/comparar-planes-xgspon"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Tecnología certificada por estándares internacionales ITU-T.",
+      "Red monitoreada 24/7 para garantizar máxima disponibilidad.",
+      "Cumplimiento con normativas de telecomunicaciones de OSIPTEL."
+    ]
+  },
+  {
+    "id": "servicio03",
+    "nombre": "Planes Gamer WIN",
+    "alcance": "Residencial",
+    "categoria": "Internet especial para gamers",
+    "descripcion": "Línea de planes diferenciada 'Planes Gamer WIN', orientados a gaming online con mejor experiencia (baja latencia, estabilidad). Aparecen como categoría propia en el menú de hogar.",
+    "imagen": "/images/planes_gamer_win.jpg",
+    "imagen_secundaria": "/images/planes_gamer_win_2.jpg",
+    "icon": "🎮",
+    "caracteristicas": [
+      "Baja latencia y estabilidad máxima",
+      "Mejor experiencia en juegos en línea",
+      "Ancho de banda prioritario"
+    ],
+    "descripcion_detallada": "Los Planes Gamer WIN están especialmente diseñados para jugadores que exigen el máximo rendimiento de su conexión. Con tecnología de priorización de tráfico gaming, latencia ultra baja y estabilidad garantizada, podrás competir al más alto nivel sin preocuparte por lag o desconexiones. Nuestra red está optimizada para los servidores de juegos más populares como League of Legends, Valorant, Fortnite, Call of Duty, FIFA y muchos más. Experimenta la diferencia de jugar con una conexión pensada exclusivamente para gamers.",
+    "requisitos_tecnicos": [
+      "Cobertura de fibra óptica WIN en tu zona",
+      "Router gaming de alta performance (incluido en el plan)",
+      "PC, consola o dispositivo gaming compatible",
+      "Recomendado: conexión por cable Ethernet para mínima latencia"
+    ],
+    "beneficios": [
+      "Latencia ultra baja (ping) optimizada para servidores de juegos en Latinoamérica y Norteamérica.",
+      "Priorización de tráfico gaming: tu juego siempre tiene prioridad sobre otras actividades de la red.",
+      "Estabilidad garantizada sin picos de lag ni microcortes durante partidas importantes.",
+      "Router gaming incluido con QoS avanzado y puertos optimizados.",
+      "Soporte técnico especializado para gamers disponible 24/7."
+    ],
+    "casos_de_uso": [
+      "Perfecto para jugadores competitivos de eSports que necesitan cada milisegundo de ventaja en torneos y ranked.",
+      "Ideal para streamers que transmiten en vivo mientras juegan, requiriendo conexión estable para subida y bajada simultánea.",
+      "Excelente para hogares con múltiples gamers que juegan online al mismo tiempo sin afectar el rendimiento."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual mediante tarjeta de crédito/débito.",
+      "Pago a través de la App Mi WIN.",
+      "Pago con Yape o billeteras digitales.",
+      "Planes anuales con descuento especial para gamers."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Kevin Rodríguez",
+        "comentario": "Mi ping bajó de 80ms a 15ms en League of Legends. La diferencia es brutal, ahora puedo competir en ranked sin excusas. 100% recomendado para gamers serios."
+      },
+      {
+        "cliente": "Lucía Vargas",
+        "comentario": "Hago streams en Twitch mientras juego Valorant y nunca tengo drops de frames ni lag. Mis viewers notan la calidad y yo noto la estabilidad."
+      },
+      {
+        "cliente": "Andrés Castro",
+        "comentario": "Somos 3 hermanos gamers en casa. Con el plan anterior nos peleábamos por el internet, ahora todos jugamos online al mismo tiempo sin problemas."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Qué hace diferente al Plan Gamer de un plan de internet normal?",
+        "respuesta": "El Plan Gamer incluye priorización de tráfico gaming (QoS), rutas optimizadas a servidores de juegos, router gaming especializado y latencia garantizada más baja que planes estándar."
+      },
+      {
+        "pregunta": "¿Funciona para consolas como PlayStation y Xbox?",
+        "respuesta": "¡Sí! Los Planes Gamer WIN están optimizados para PC, PlayStation, Xbox, Nintendo Switch y cualquier plataforma gaming. El router incluido tiene configuración automática para todas las consolas."
+      },
+      {
+        "pregunta": "¿Puedo hacer streaming mientras juego?",
+        "respuesta": "Absolutamente. La velocidad simétrica y la estabilidad del plan permiten jugar y transmitir en alta calidad simultáneamente sin afectar tu gameplay ni la calidad del stream."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar Plan Gamer",
+        "url": "/contratar-plan-gamer-win"
+      },
+      {
+        "texto": "Ver velocidades y precios",
+        "url": "/planes-gamer-win-precios"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Red optimizada con peering directo a servidores de juegos populares.",
+      "Monitoreo de latencia 24/7 para garantizar rendimiento gaming.",
+      "Soporte técnico especializado en configuración de redes gaming."
+    ]
+  },
+  {
+    "id": "servicio04",
+    "nombre": "Televisión digital WINTV",
+    "alcance": "Residencial",
+    "categoria": "Entretenimiento / TV",
+    "descripcion": "Servicio de TV digital/OTT de WIN, que se integra con el internet de fibra y permite ver canales, series y películas; se factura junto con el internet en un solo recibo.",
+    "imagen": "/images/television_digital_wintv.jpg",
+    "imagen_secundaria": "/images/television_digital_wintv_2.jpg",
+    "icon": "📺",
+    "caracteristicas": [
+      "Canales nacionales e internacionales",
+      "Series, películas y contenido exclusivo",
+      "Se integra con internet en un solo recibo"
+    ],
+    "descripcion_detallada": "WINTV es el servicio de televisión digital de WIN que transforma tu experiencia de entretenimiento en casa. Con una amplia variedad de canales nacionales e internacionales en HD, acceso a series, películas y contenido exclusivo bajo demanda, WINTV te ofrece lo mejor del entretenimiento sin necesidad de antenas ni cables adicionales. Todo se transmite a través de tu conexión de fibra óptica, garantizando calidad de imagen impecable y sin cortes. Además, la facturación integrada con tu servicio de internet simplifica tus pagos en un solo recibo mensual.",
+    "requisitos_tecnicos": [
+      "Servicio de internet WIN activo con fibra óptica",
+      "Decodificador WINTV (proporcionado por WIN)",
+      "Televisor con entrada HDMI",
+      "Conexión estable de al menos 10 Mbps para contenido HD"
+    ],
+    "beneficios": [
+      "Amplia programación con canales nacionales, internacionales, deportes, noticias, películas y series.",
+      "Calidad HD en todos los canales principales sin costo adicional.",
+      "Contenido bajo demanda: ve tus programas favoritos cuando quieras.",
+      "Guía de programación electrónica (EPG) para navegar fácilmente entre canales.",
+      "Un solo recibo mensual junto con tu servicio de internet WIN."
+    ],
+    "casos_de_uso": [
+      "Ideal para familias que disfrutan de entretenimiento variado: deportes en vivo, películas, series y programación infantil.",
+      "Perfecto para quienes buscan una alternativa al cable tradicional con mejor calidad de imagen y más flexibilidad.",
+      "Excelente opción para hogares que ya tienen internet WIN y desean agregar TV sin complicaciones."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual integrado con tu recibo de internet WIN.",
+      "Pago mediante tarjeta de crédito/débito en la App Mi WIN.",
+      "Pago en puntos de venta autorizados.",
+      "Pago con Yape seleccionando WIN en la categoría de servicios."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Patricia Guzmán",
+        "comentario": "La calidad de imagen es excelente y me encanta que todo venga en un solo recibo. Mis hijos tienen sus canales favoritos y yo puedo ver mis novelas sin problemas."
+      },
+      {
+        "cliente": "Jorge Medina",
+        "comentario": "Cambié del cable tradicional a WINTV y la diferencia es notable. Mejor calidad, más canales HD y sin los cortes que tenía antes."
+      },
+      {
+        "cliente": "Carla Quispe",
+        "comentario": "El contenido bajo demanda es genial. Puedo ver las series cuando tengo tiempo y no me pierdo ningún capítulo. Muy práctico."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Necesito una antena o cable especial para WINTV?",
+        "respuesta": "No, WINTV funciona completamente a través de tu conexión de fibra óptica WIN. Solo necesitas el decodificador que te proporcionamos y un televisor con entrada HDMI."
+      },
+      {
+        "pregunta": "¿Puedo ver WINTV en varios televisores?",
+        "respuesta": "Sí, puedes contratar decodificadores adicionales para otros televisores de tu hogar. Consulta los planes multiroom disponibles."
+      },
+      {
+        "pregunta": "¿Qué pasa si ya tengo internet WIN, puedo agregar WINTV?",
+        "respuesta": "¡Claro! Puedes agregar WINTV a tu servicio existente fácilmente. Contáctanos y coordinamos la instalación del decodificador sin costo adicional de instalación."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar WINTV",
+        "url": "/contratar-wintv"
+      },
+      {
+        "texto": "Ver paquetes y canales",
+        "url": "/wintv-paquetes-canales"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Contenido transmitido con encriptación para proteger la señal.",
+      "Cumplimiento con regulaciones de contenido audiovisual en Perú.",
+      "Servicio respaldado por la infraestructura de fibra óptica de WIN."
+    ]
+  },
+  {
+    "id": "servicio05",
+    "nombre": "DGO (Directv Go) vía WIN",
+    "alcance": "Residencial",
+    "categoria": "Streaming asociado",
+    "descripcion": "WIN ofrece como opción de TV la integración con DGO (Directv Go) dentro de la sección 'Televisión Digital', como servicio complementario al internet.",
+    "imagen": "/images/dgo_directv_go_win.jpg",
+    "imagen_secundaria": "/images/dgo_directv_go_win_2.jpg",
+    "icon": "🎬",
+    "caracteristicas": [
+      "Acceso a contenido DGO",
+      "Alternativa flexible de entretenimiento",
+      "Compatible con múltiples dispositivos"
+    ],
+    "descripcion_detallada": "Directv Go (DGO) es la plataforma de streaming premium que WIN pone a tu disposición como complemento perfecto para tu servicio de internet. Con DGO accedes a una amplia biblioteca de canales en vivo, películas, series exclusivas y eventos deportivos de primer nivel, todo desde cualquier dispositivo conectado. A diferencia de la TV tradicional, DGO te permite ver contenido en tu Smart TV, celular, tablet o computadora, llevando el entretenimiento contigo donde vayas. Al contratarlo a través de WIN, disfrutas de una integración perfecta con tu conexión de fibra óptica y facturación simplificada.",
+    "requisitos_tecnicos": [
+      "Servicio de internet WIN activo (recomendado mínimo 15 Mbps)",
+      "Dispositivo compatible: Smart TV, smartphone, tablet, PC o streaming device",
+      "Aplicación DGO instalada en tu dispositivo",
+      "Cuenta DGO activada a través de WIN"
+    ],
+    "beneficios": [
+      "Acceso a canales en vivo premium incluyendo deportes, películas y series exclusivas.",
+      "Contenido bajo demanda con miles de títulos disponibles en cualquier momento.",
+      "Multiplataforma: ve en hasta 3 dispositivos simultáneamente.",
+      "Sin necesidad de decodificadores ni equipos adicionales.",
+      "Eventos deportivos exclusivos: fútbol internacional, tenis, NFL y más."
+    ],
+    "casos_de_uso": [
+      "Ideal para amantes del deporte que quieren acceso a eventos en vivo y contenido deportivo exclusivo desde cualquier lugar.",
+      "Perfecto para quienes prefieren streaming sobre TV tradicional y quieren flexibilidad de ver en cualquier dispositivo.",
+      "Excelente para hogares donde cada miembro quiere ver contenido diferente en su propio dispositivo."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual integrado con tu recibo de internet WIN.",
+      "Pago mediante tarjeta de crédito/débito.",
+      "Pago a través de la App Mi WIN.",
+      "Promociones especiales al contratar junto con planes de internet WIN."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Fernando Castillo",
+        "comentario": "Como fanático del fútbol, DGO es perfecto. Veo todos los partidos de la Champions y La Liga en mi celular cuando no estoy en casa. La calidad es excelente."
+      },
+      {
+        "cliente": "Valentina Rojas",
+        "comentario": "Me encanta poder ver mis series en la tablet mientras mi esposo ve deportes en la TV. La flexibilidad de DGO es genial y todo en un solo recibo con WIN."
+      },
+      {
+        "cliente": "Ricardo Paredes",
+        "comentario": "Cancelé mi cable tradicional y me quedé solo con DGO. Tiene todo lo que necesito y puedo verlo donde quiera. Además la app funciona muy bien."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre WINTV y DGO?",
+        "respuesta": "WINTV requiere un decodificador y está diseñado para ver en TV. DGO es 100% streaming, funciona en cualquier dispositivo sin equipos adicionales y tiene más contenido bajo demanda y deportivo exclusivo."
+      },
+      {
+        "pregunta": "¿Puedo usar DGO fuera de casa?",
+        "respuesta": "¡Sí! Una de las ventajas de DGO es que puedes acceder desde cualquier lugar con internet. Solo necesitas la app y tu cuenta activa."
+      },
+      {
+        "pregunta": "¿Cuántos dispositivos pueden ver DGO al mismo tiempo?",
+        "respuesta": "Puedes ver en hasta 3 dispositivos simultáneamente con una sola cuenta, perfecto para familias donde cada uno tiene sus preferencias de contenido."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar DGO con WIN",
+        "url": "/contratar-dgo-win"
+      },
+      {
+        "texto": "Ver planes y contenido DGO",
+        "url": "/dgo-planes-contenido"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Plataforma respaldada por Directv con estándares de seguridad internacionales.",
+      "Streaming encriptado para protección del contenido.",
+      "Cumplimiento con derechos de transmisión y licencias de contenido."
+    ]
+  },
+  {
+    "id": "servicio06",
+    "nombre": "FonoWin (telefonía fija por fibra)",
+    "alcance": "Residencial",
+    "categoria": "Telefonía fija sobre IP",
+    "descripcion": "Servicio de telefonía fija que corre sobre la red 100% fibra de WIN; incluye app FonoWin para usar el número fijo en el celular, llamadas ilimitadas entre fijos WIN y 100 min/mes a cualquier operador del Perú, con voz HD.",
+    "imagen": "/images/fonowin_fibra.jpg",
+    "imagen_secundaria": "/images/fonowin_fibra_2.jpg",
+    "icon": "☎️",
+    "caracteristicas": [
+      "Llamadas ilimitadas entre fijos WIN",
+      "100 min/mes a cualquier operador del Perú",
+      "Voz HD y app móvil FonoWin incluida"
+    ],
+    "descripcion_detallada": "FonoWin es el servicio de telefonía fija de última generación que funciona sobre la red 100% fibra óptica de WIN. A diferencia de la telefonía tradicional, FonoWin ofrece calidad de voz HD cristalina, sin ruidos ni interferencias. Incluye llamadas ilimitadas entre líneas fijas WIN, 100 minutos mensuales para llamar a cualquier operador fijo o móvil en Perú, y la innovadora app FonoWin que te permite usar tu número fijo desde tu smartphone. Mantén tu número tradicional o solicita uno nuevo, todo con la confiabilidad de la fibra óptica.",
+    "requisitos_tecnicos": [
+      "Servicio de internet WIN activo con fibra óptica",
+      "Teléfono fijo analógico o IP (adaptador incluido si es necesario)",
+      "App FonoWin instalada en smartphone para uso móvil (opcional)",
+      "Conexión WiFi o datos móviles para usar la app FonoWin"
+    ],
+    "beneficios": [
+      "Calidad de voz HD superior a la telefonía tradicional, sin ruidos ni cortes.",
+      "Llamadas ilimitadas gratis entre todos los fijos WIN a nivel nacional.",
+      "100 minutos incluidos para llamar a cualquier operador en Perú.",
+      "App FonoWin: atiende y realiza llamadas desde tu celular con tu número fijo.",
+      "Portabilidad numérica: conserva tu número fijo actual al cambiarte a WIN."
+    ],
+    "casos_de_uso": [
+      "Ideal para hogares que aún valoran tener una línea fija confiable para emergencias y llamadas familiares.",
+      "Perfecto para personas mayores que prefieren usar teléfono fijo pero quieren calidad moderna.",
+      "Excelente para quienes trabajan desde casa y necesitan un número fijo profesional accesible desde el celular."
+    ],
+    "opciones_de_pago": [
+      "Pago mensual integrado con tu recibo de internet WIN.",
+      "Pago mediante tarjeta de crédito/débito en la App Mi WIN.",
+      "Pago en agentes y puntos de venta autorizados.",
+      "Pago con Yape seleccionando WIN en servicios."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Gloria Fernández",
+        "comentario": "La calidad de las llamadas es impresionante, se escucha clarísimo. Y lo mejor es que puedo atender las llamadas del fijo en mi celular cuando no estoy en casa."
+      },
+      {
+        "cliente": "Manuel Vega",
+        "comentario": "Mis padres usan el teléfono fijo todos los días y están encantados. La voz se escucha mejor que nunca y las llamadas entre fijos WIN son gratis."
+      },
+      {
+        "cliente": "Sandra Morales",
+        "comentario": "Trabajo desde casa y necesitaba un número fijo profesional. Con FonoWin tengo eso y además puedo contestar desde mi celular si salgo. Muy práctico."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Puedo conservar mi número de teléfono fijo actual?",
+        "respuesta": "Sí, ofrecemos portabilidad numérica. Puedes mantener tu número fijo actual al contratar FonoWin y el proceso es gratuito."
+      },
+      {
+        "pregunta": "¿Qué pasa si se va la luz, funciona el teléfono?",
+        "respuesta": "FonoWin requiere energía eléctrica para funcionar. Sin embargo, con la app FonoWin en tu celular puedes seguir recibiendo y haciendo llamadas usando datos móviles."
+      },
+      {
+        "pregunta": "¿Los 100 minutos incluidos son para fijos y celulares?",
+        "respuesta": "Sí, los 100 minutos mensuales incluidos pueden usarse para llamar a cualquier número fijo o celular de cualquier operador en todo el Perú."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Contratar FonoWin",
+        "url": "/contratar-fonowin"
+      },
+      {
+        "texto": "Conocer más sobre FonoWin",
+        "url": "/fonowin-caracteristicas"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Servicio de telefonía regulado y supervisado por OSIPTEL.",
+      "Tecnología VoIP sobre fibra óptica con encriptación de llamadas.",
+      "Numeración oficial asignada por el Ministerio de Transportes y Comunicaciones."
+    ]
+  },
+  {
+    "id": "servicio07",
+    "nombre": "App FonoWin",
+    "alcance": "Residencial",
+    "categoria": "App de telefonía",
+    "descripcion": "Aplicación móvil (Android) asociada a FonoWin que permite atender y realizar llamadas desde el smartphone usando el número fijo del hogar, sobre la red WIN.",
+    "imagen": "/images/app_fonowin.jpg",
+    "imagen_secundaria": "/images/app_fonowin_2.jpg",
+    "icon": "📱",
+    "caracteristicas": [
+      "Usa tu número fijo en el celular",
+      "Disponible para Android",
+      "Integración total con FonoWin"
+    ],
+    "descripcion_detallada": "La App FonoWin es la extensión móvil de tu línea fija WIN que te permite llevar tu número de teléfono fijo a donde vayas. Con esta aplicación gratuita para Android, puedes recibir y realizar llamadas usando tu número fijo del hogar directamente desde tu smartphone, ya sea por WiFi o datos móviles. Nunca más pierdas una llamada importante cuando no estés en casa. La app muestra el identificador de llamadas, permite transferir llamadas al teléfono fijo y mantiene un historial completo de todas tus comunicaciones.",
+    "requisitos_tecnicos": [
+      "Servicio FonoWin activo en tu hogar",
+      "Smartphone Android 6.0 o superior",
+      "Conexión a internet (WiFi o datos móviles)",
+      "Descarga gratuita desde Google Play Store"
+    ],
+    "beneficios": [
+      "Recibe llamadas de tu fijo en el celular: nunca pierdas una llamada cuando no estés en casa.",
+      "Realiza llamadas mostrando tu número fijo, ideal para mantener privacidad del celular.",
+      "Gratis: la app no tiene costo adicional, solo usas tus minutos FonoWin.",
+      "Historial de llamadas sincronizado entre el teléfono fijo y la app.",
+      "Identificador de llamadas para saber quién llama antes de contestar."
+    ],
+    "casos_de_uso": [
+      "Perfecto para quienes salen de casa frecuentemente pero no quieren perder llamadas importantes al fijo.",
+      "Ideal para profesionales que quieren dar un número fijo a clientes y atenderlo desde cualquier lugar.",
+      "Excelente para familias donde varios miembros pueden atender el teléfono fijo desde sus propios celulares."
+    ],
+    "opciones_de_pago": [
+      "App gratuita incluida con tu servicio FonoWin.",
+      "Las llamadas realizadas desde la app usan tus minutos FonoWin incluidos.",
+      "Sin costos adicionales de suscripción ni compras in-app."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Alejandro Ruiz",
+        "comentario": "La app es súper útil. Puedo atender las llamadas del fijo de mi casa cuando estoy en el trabajo. Mis clientes llaman al fijo y yo contesto en mi celular."
+      },
+      {
+        "cliente": "Mónica Chávez",
+        "comentario": "Antes perdía muchas llamadas cuando salía de casa. Ahora con la app FonoWin las recibo todas en mi celular. Funciona muy bien por WiFi y por datos."
+      },
+      {
+        "cliente": "Luis Paredes",
+        "comentario": "Configuramos la app en los celulares de toda la familia. Ahora cualquiera puede contestar el fijo sin correr al teléfono. Muy práctico."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿La app FonoWin está disponible para iPhone?",
+        "respuesta": "Actualmente la app FonoWin está disponible solo para dispositivos Android. Estamos trabajando en una versión para iOS que estará disponible próximamente."
+      },
+      {
+        "pregunta": "¿Consume muchos datos usar la app FonoWin?",
+        "respuesta": "No, las llamadas de voz consumen muy pocos datos (aproximadamente 1MB por minuto). Puedes usar la app cómodamente con tu plan de datos o por WiFi."
+      },
+      {
+        "pregunta": "¿Puedo instalar la app en varios celulares?",
+        "respuesta": "Sí, puedes instalar la app FonoWin en varios dispositivos y todos pueden recibir las llamadas entrantes. Cuando alguien contesta, los demás dejan de sonar."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Descargar App FonoWin",
+        "url": "https://play.google.com/store/apps/details?id=com.win.fonowin"
+      },
+      {
+        "texto": "Más información sobre FonoWin",
+        "url": "/fonowin-caracteristicas"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "App verificada y publicada en Google Play Store.",
+      "Comunicaciones encriptadas para proteger tus llamadas.",
+      "Desarrollada por WINET TELECOM con estándares de seguridad móvil."
+    ]
+  },
+  {
+    "id": "servicio08",
+    "nombre": "App móvil Mi WIN",
+    "alcance": "Residencial",
+    "categoria": "App de autogestión",
+    "descripcion": "App oficial de WIN (desarrollador: WINET TELECOM) para gestionar tu internet 100% fibra: actualizar datos, cambiar nombre de red, cambiar/confirmar contraseña WIN, ver dispositivos conectados, suspender el servicio por vacaciones y consultar el estado de los recibos.",
+    "imagen": "/images/app_mi_win.jpg",
+    "imagen_secundaria": "/images/app_mi_win_2.jpg",
+    "icon": "📲",
+    "caracteristicas": [
+      "Actualizar datos de cuenta",
+      "Ver dispositivos conectados",
+      "Cambiar contraseña WiFi y suspender por vacaciones"
+    ],
+    "descripcion_detallada": "Mi WIN es la aplicación oficial de autogestión que te pone el control total de tu servicio de internet en la palma de tu mano. Desde esta app puedes realizar prácticamente cualquier gestión sin necesidad de llamar o ir a una oficina: consulta y paga tus recibos, cambia el nombre y contraseña de tu red WiFi, visualiza todos los dispositivos conectados a tu red, suspende temporalmente tu servicio cuando salgas de vacaciones, actualiza tus datos personales y mucho más. Disponible para Android e iOS, Mi WIN está diseñada para que gestionar tu servicio sea rápido, fácil y desde cualquier lugar.",
+    "requisitos_tecnicos": [
+      "Smartphone Android 6.0+ o iOS 12.0+",
+      "Servicio de internet WIN activo",
+      "Conexión a internet (WiFi o datos móviles)",
+      "Cuenta WIN registrada con DNI o código de cliente"
+    ],
+    "beneficios": [
+      "Gestión 24/7: realiza trámites y consultas en cualquier momento sin esperas.",
+      "Paga tu recibo directamente desde la app con tarjeta de crédito/débito.",
+      "Control total de tu WiFi: cambia nombre de red, contraseña y ve quién está conectado.",
+      "Suspensión por vacaciones: pausa tu servicio temporalmente y ahorra cuando no lo uses.",
+      "Historial completo de recibos y pagos para llevar un control de tu cuenta."
+    ],
+    "casos_de_uso": [
+      "Ideal para usuarios que prefieren gestionar todo digitalmente sin llamadas telefónicas ni visitas a oficinas.",
+      "Perfecto para quienes viajan frecuentemente y necesitan suspender/reactivar su servicio remotamente.",
+      "Excelente para mantener la seguridad de tu red: detecta dispositivos desconocidos y cambia la contraseña al instante."
+    ],
+    "opciones_de_pago": [
+      "App gratuita disponible en Google Play Store y App Store.",
+      "Paga tus recibos dentro de la app con tarjeta de crédito/débito.",
+      "Sin costos adicionales por usar la aplicación."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Carmen Delgado",
+        "comentario": "Ya no tengo que ir a pagar a ningún lado. Pago mi recibo desde la app en segundos y me llega la confirmación al instante. Súper cómodo."
+      },
+      {
+        "cliente": "Eduardo Soto",
+        "comentario": "Me di cuenta que un vecino estaba usando mi WiFi. Con la app vi los dispositivos conectados, cambié la contraseña y problema resuelto. Muy útil."
+      },
+      {
+        "cliente": "Isabel Campos",
+        "comentario": "Cuando me fui de vacaciones por un mes, suspendí el servicio desde la app y me descontaron ese tiempo del recibo. Excelente función."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cómo me registro en la app Mi WIN?",
+        "respuesta": "Descarga la app, ingresa tu DNI o código de cliente WIN y sigue los pasos de verificación. Recibirás un código por SMS para activar tu cuenta."
+      },
+      {
+        "pregunta": "¿Es seguro pagar mis recibos desde la app?",
+        "respuesta": "Sí, la app utiliza encriptación de datos y pasarelas de pago seguras certificadas. Tu información financiera está protegida en todo momento."
+      },
+      {
+        "pregunta": "¿Puedo usar la app si no estoy conectado a mi WiFi WIN?",
+        "respuesta": "Sí, puedes usar la app desde cualquier conexión a internet (datos móviles u otro WiFi) para consultas, pagos y gestiones. Solo algunas funciones como cambiar contraseña WiFi requieren estar en tu red."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Descargar Mi WIN para Android",
+        "url": "https://play.google.com/store/apps/details?id=com.winet.miwin"
+      },
+      {
+        "texto": "Descargar Mi WIN para iOS",
+        "url": "https://apps.apple.com/app/mi-win/id123456789"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "App verificada en Google Play Store y App Store.",
+      "Encriptación de datos y transacciones financieras seguras.",
+      "Desarrollada por WINET TELECOM cumpliendo estándares de privacidad."
+    ]
+  },
+  {
+    "id": "servicio09",
+    "nombre": "Función 'Smart WiFi' en Mi WIN",
+    "alcance": "Residencial",
+    "categoria": "Gestión avanzada de WiFi",
+    "descripcion": "Dentro de Mi WIN, la función 'Smart WiFi' permite ver en tiempo real los dispositivos conectados a tu red y gestionar la seguridad (por ejemplo, detectar intrusos y cambiar la contraseña).",
+    "imagen": "/images/smart_wifi_mi_win.jpg",
+    "imagen_secundaria": "/images/smart_wifi_mi_win_2.jpg",
+    "icon": "🔒",
+    "caracteristicas": [
+      "Ver dispositivos conectados",
+      "Detectar intrusos en la red",
+      "Cambiar contraseña de seguridad"
+    ],
+    "descripcion_detallada": "Smart WiFi es la función avanzada dentro de la app Mi WIN que te da visibilidad y control completo sobre tu red inalámbrica. Con Smart WiFi puedes ver en tiempo real todos los dispositivos conectados a tu red, identificarlos por nombre y tipo (celular, laptop, TV, etc.), detectar dispositivos desconocidos que podrían ser intrusos, y tomar acción inmediata cambiando la contraseña de tu WiFi. Además, puedes optimizar tu conexión viendo qué dispositivos consumen más ancho de banda y gestionar el acceso a tu red de forma inteligente.",
+    "requisitos_tecnicos": [
+      "App Mi WIN instalada y actualizada",
+      "Servicio de internet WIN activo",
+      "Router WIN compatible con Smart WiFi",
+      "Estar conectado a tu red WiFi WIN para algunas funciones"
+    ],
+    "beneficios": [
+      "Visibilidad total: conoce exactamente qué dispositivos están usando tu internet.",
+      "Seguridad proactiva: detecta dispositivos desconocidos y posibles intrusos al instante.",
+      "Control inmediato: cambia la contraseña WiFi con un toque si detectas acceso no autorizado.",
+      "Identificación inteligente: ve el tipo de dispositivo (smartphone, laptop, smart TV, etc.).",
+      "Historial de conexiones: revisa qué dispositivos se han conectado recientemente."
+    ],
+    "casos_de_uso": [
+      "Perfecto para usuarios preocupados por la seguridad que quieren saber exactamente quién usa su red.",
+      "Ideal para padres que quieren monitorear qué dispositivos de sus hijos están conectados.",
+      "Excelente para detectar si algún vecino está usando tu WiFi sin permiso y actuar de inmediato."
+    ],
+    "opciones_de_pago": [
+      "Función gratuita incluida en la app Mi WIN.",
+      "Sin costos adicionales de activación.",
+      "Disponible para todos los clientes WIN con router compatible."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Roberto Ángeles",
+        "comentario": "Descubrí que había 3 dispositivos que no reconocía conectados a mi red. Con Smart WiFi los identifiqué, cambié la contraseña y problema solucionado."
+      },
+      {
+        "cliente": "Pilar Méndez",
+        "comentario": "Me gusta poder ver en tiempo real cuántos dispositivos tenemos conectados. Así sé cuándo mis hijos están usando internet y desde qué dispositivos."
+      },
+      {
+        "cliente": "Javier Huamán",
+        "comentario": "La función de detectar dispositivos desconocidos es genial. Me llegó una alerta de un dispositivo nuevo y resultó ser el celular de una visita. Muy tranquilo saber que funciona."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cómo sé si un dispositivo en la lista es un intruso?",
+        "respuesta": "Smart WiFi muestra el nombre, tipo y fabricante del dispositivo. Si ves uno que no reconoces y no corresponde a ningún equipo de tu hogar, probablemente sea un acceso no autorizado."
+      },
+      {
+        "pregunta": "¿Puedo bloquear dispositivos específicos?",
+        "respuesta": "Actualmente puedes cambiar la contraseña WiFi para desconectar dispositivos no autorizados. La función de bloqueo individual está en desarrollo para futuras versiones."
+      },
+      {
+        "pregunta": "¿Smart WiFi funciona con cualquier router?",
+        "respuesta": "Smart WiFi funciona con los routers proporcionados por WIN que son compatibles con esta tecnología. Si tienes un router antiguo, consulta sobre actualización sin costo."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Descargar Mi WIN con Smart WiFi",
+        "url": "https://play.google.com/store/apps/details?id=com.winet.miwin"
+      },
+      {
+        "texto": "Más información sobre Smart WiFi",
+        "url": "/smart-wifi-caracteristicas"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Función desarrollada con estándares de seguridad de redes.",
+      "Datos de dispositivos protegidos y no compartidos con terceros.",
+      "Integración segura con el router WIN para gestión confiable."
+    ]
+  },
+  {
+    "id": "servicio10",
+    "nombre": "Mi Portal WIN (miportal.win.pe)",
+    "alcance": "Residencial",
+    "categoria": "Portal web de clientes",
+    "descripcion": "Portal web donde el cliente puede consultar y descargar recibos, ver facturación y gestionar parte de su servicio; es uno de los canales oficiales de pago y consulta de recibos.",
+    "imagen": "/images/mi_portal_win.jpg",
+    "imagen_secundaria": "/images/mi_portal_win_2.jpg",
+    "icon": "💻",
+    "caracteristicas": [
+      "Descargar recibos electrónicos",
+      "Ver historial de facturación",
+      "Canal oficial de pago y consultas"
+    ],
+    "descripcion_detallada": "Mi Portal WIN (miportal.win.pe) es la plataforma web oficial de autogestión para clientes WIN. Desde cualquier navegador y dispositivo, puedes acceder a tu cuenta para consultar el estado de tus recibos, descargar comprobantes electrónicos en PDF, revisar tu historial completo de facturación, realizar pagos en línea de forma segura y gestionar diversos aspectos de tu servicio. Es la alternativa perfecta para quienes prefieren usar computadora en lugar de la app móvil, con todas las funcionalidades necesarias para administrar tu cuenta WIN sin salir de casa.",
+    "requisitos_tecnicos": [
+      "Navegador web actualizado (Chrome, Firefox, Safari, Edge)",
+      "Conexión a internet desde cualquier dispositivo",
+      "Cuenta WIN registrada con DNI o código de cliente",
+      "Email válido para recibir notificaciones y comprobantes"
+    ],
+    "beneficios": [
+      "Acceso desde cualquier dispositivo: PC, laptop, tablet o celular con navegador.",
+      "Descarga de recibos en PDF para archivo personal o trámites.",
+      "Historial completo de facturación para llevar control de tus pagos.",
+      "Pago en línea seguro con múltiples métodos de pago.",
+      "Sin necesidad de instalar aplicaciones: accede directamente desde el navegador."
+    ],
+    "casos_de_uso": [
+      "Ideal para usuarios que prefieren gestionar sus servicios desde la computadora del trabajo u hogar.",
+      "Perfecto para quienes necesitan descargar recibos en PDF para trámites, reembolsos o archivos contables.",
+      "Excelente alternativa cuando no tienes espacio para instalar apps o prefieres la experiencia web."
+    ],
+    "opciones_de_pago": [
+      "Portal gratuito accesible para todos los clientes WIN.",
+      "Pago de recibos con tarjeta de crédito/débito directamente en el portal.",
+      "Generación de códigos para pago en bancos y agentes."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Arturo Villavicencio",
+        "comentario": "Uso el portal desde mi laptop del trabajo para revisar y pagar mis recibos. Es rápido y puedo descargar los comprobantes para mis registros."
+      },
+      {
+        "cliente": "Daniela Espinoza",
+        "comentario": "Necesitaba recibos antiguos para un trámite y en el portal encontré todo mi historial. Los descargué en PDF en minutos. Muy útil."
+      },
+      {
+        "cliente": "Raúl Contreras",
+        "comentario": "Prefiero usar la computadora para estas cosas. El portal es fácil de navegar y puedo hacer todo lo que necesito sin instalar nada."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cómo accedo a Mi Portal WIN por primera vez?",
+        "respuesta": "Ingresa a miportal.win.pe, haz clic en 'Registrarse', ingresa tu DNI o código de cliente y sigue los pasos de verificación. Recibirás un correo para activar tu cuenta."
+      },
+      {
+        "pregunta": "¿Puedo ver recibos de meses anteriores?",
+        "respuesta": "Sí, el portal mantiene un historial completo de todos tus recibos. Puedes consultarlos, verlos en línea y descargarlos en PDF cuando lo necesites."
+      },
+      {
+        "pregunta": "¿Es seguro pagar en el portal web?",
+        "respuesta": "Sí, Mi Portal WIN utiliza certificados SSL y pasarelas de pago certificadas. Tus datos están encriptados y protegidos durante toda la transacción."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Acceder a Mi Portal WIN",
+        "url": "https://miportal.win.pe"
+      },
+      {
+        "texto": "Guía de uso del portal",
+        "url": "/guia-mi-portal-win"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Sitio web con certificado SSL para conexiones seguras.",
+      "Pasarela de pagos certificada PCI-DSS.",
+      "Cumplimiento con normativas de protección de datos personales."
+    ]
+  },
+  {
+    "id": "servicio11",
+    "nombre": "Pago de recibos con Yape",
+    "alcance": "Residencial",
+    "categoria": "Medio de pago",
+    "descripcion": "WIN ofrece pago de recibos a través de Yape, siguiendo el flujo 'Yapear servicios' → categoría 'Telefonía e Internet' → seleccionar 'WIN' e ingresar código/DNI/RUC/CE.",
+    "imagen": "/images/pago_yape.jpg",
+    "imagen_secundaria": "/images/pago_yape_2.jpg",
+    "icon": "💳",
+    "caracteristicas": [
+      "Opción rápida y segura",
+      "Categoría Telefonía e Internet en Yape",
+      "Ingresa código o documento de identificación"
+    ],
+    "descripcion_detallada": "Pagar tu recibo WIN con Yape es la forma más rápida y conveniente de mantener tu servicio al día. Desde la app Yape del BCP, accede a la sección 'Yapear servicios', busca WIN en la categoría 'Telefonía e Internet', ingresa tu código de cliente, DNI, RUC o Carné de Extranjería, y completa el pago en segundos. El pago se procesa instantáneamente y tu servicio se actualiza de inmediato. Sin filas, sin salir de casa, y con la seguridad que ofrece la plataforma Yape respaldada por el BCP.",
+    "requisitos_tecnicos": [
+      "App Yape instalada y cuenta activa con saldo disponible",
+      "Código de cliente WIN, DNI, RUC o Carné de Extranjería",
+      "Smartphone con conexión a internet",
+      "Monto del recibo disponible en tu cuenta Yape"
+    ],
+    "beneficios": [
+      "Pago instantáneo: tu recibo se actualiza inmediatamente sin esperas.",
+      "Sin comisiones: pagar con Yape no tiene costo adicional.",
+      "Disponible 24/7: paga en cualquier momento del día o la noche.",
+      "Comprobante digital: Yape genera un comprobante de pago automáticamente.",
+      "Seguridad BCP: respaldado por la infraestructura de seguridad del Banco de Crédito del Perú."
+    ],
+    "casos_de_uso": [
+      "Perfecto para quienes ya usan Yape para sus pagos diarios y quieren centralizar todo en una sola app.",
+      "Ideal para pagos de último momento: si tu recibo vence hoy, puedes pagar al instante y evitar cortes.",
+      "Excelente para personas que no tienen tarjeta de crédito/débito pero sí cuenta Yape."
+    ],
+    "opciones_de_pago": [
+      "Pago con saldo Yape disponible en tu cuenta.",
+      "Sin comisión por transacción.",
+      "Puedes recargar tu Yape en agentes BCP si no tienes saldo."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Melissa Pacheco",
+        "comentario": "Pago mi WIN con Yape todos los meses. Es súper rápido, en 30 segundos ya está pagado y me llega el comprobante. No volvería a hacer cola nunca más."
+      },
+      {
+        "cliente": "César Aguirre",
+        "comentario": "Se me pasó la fecha de pago y mi internet estaba por cortarse. Pagué con Yape en el momento y en minutos ya tenía el servicio activo. Salvación total."
+      },
+      {
+        "cliente": "Lucero Vásquez",
+        "comentario": "Lo mejor es que no cobran comisión. Antes pagaba en agente y me cobraban extra. Con Yape pago el monto exacto de mi recibo."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cómo encuentro WIN en Yape?",
+        "respuesta": "Abre Yape, ve a 'Yapear servicios' o 'Pagar servicios', busca la categoría 'Telefonía e Internet', y selecciona 'WIN'. Luego ingresa tu código de cliente o DNI."
+      },
+      {
+        "pregunta": "¿Cuánto demora en reflejarse el pago?",
+        "respuesta": "El pago se procesa instantáneamente. En la mayoría de casos, tu cuenta WIN se actualiza en menos de 5 minutos después de completar el pago."
+      },
+      {
+        "pregunta": "¿Yape cobra comisión por pagar WIN?",
+        "respuesta": "No, pagar tu recibo WIN a través de Yape no tiene ninguna comisión adicional. Pagas únicamente el monto de tu recibo."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Descargar Yape",
+        "url": "https://www.yape.com.pe/descarga"
+      },
+      {
+        "texto": "Ver tutorial de pago con Yape",
+        "url": "/tutorial-pago-yape-win"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Transacciones procesadas por plataforma Yape del BCP.",
+      "Encriptación de datos en todas las transacciones.",
+      "Comprobante digital generado automáticamente para respaldo."
+    ]
+  },
+  {
+    "id": "servicio12",
+    "nombre": "Pago de recibos en App Mi WIN con tarjeta",
+    "alcance": "Residencial",
+    "categoria": "Medio de pago digital",
+    "descripcion": "Desde la App Mi WIN se puede pagar el recibo con tarjeta (activando compras por internet y llenando los datos de la tarjeta), recibiendo confirmación de 'Pago de servicio exitoso'.",
+    "imagen": "/images/pago_tarjeta_mi_win.jpg",
+    "imagen_secundaria": "/images/pago_tarjeta_mi_win_2.jpg",
+    "icon": "✅",
+    "caracteristicas": [
+      "Pagar con tarjeta de crédito/débito",
+      "Compras por internet habilitadas",
+      "Confirmación instantánea de pago"
+    ],
+    "descripcion_detallada": "Pagar tu recibo WIN directamente desde la App Mi WIN con tarjeta de crédito o débito es la forma más cómoda de mantener tu servicio activo. Solo necesitas tener tu tarjeta habilitada para compras por internet, ingresar los datos de la tarjeta de forma segura, y en segundos recibirás la confirmación de 'Pago de servicio exitoso'. El proceso es completamente seguro, con encriptación de datos y sin almacenamiento de información sensible. Puedes guardar tu tarjeta para pagos futuros más rápidos o ingresar los datos cada vez que pagues.",
+    "requisitos_tecnicos": [
+      "App Mi WIN instalada y cuenta registrada",
+      "Tarjeta de crédito o débito Visa, Mastercard o American Express",
+      "Tarjeta habilitada para compras por internet (activa en tu banco)",
+      "Conexión a internet estable para completar la transacción"
+    ],
+    "beneficios": [
+      "Pago inmediato: tu recibo se marca como pagado al instante.",
+      "Múltiples tarjetas aceptadas: Visa, Mastercard, American Express, débito y crédito.",
+      "Seguridad total: datos encriptados y transacción protegida.",
+      "Comprobante digital: recibe confirmación por email y en la app.",
+      "Opción de guardar tarjeta: para pagos futuros aún más rápidos."
+    ],
+    "casos_de_uso": [
+      "Ideal para quienes prefieren pagar con tarjeta y tener todo centralizado en una sola app.",
+      "Perfecto para pagos programados o de último momento sin salir de casa.",
+      "Excelente para quienes quieren acumular puntos o millas de su tarjeta de crédito al pagar servicios."
+    ],
+    "opciones_de_pago": [
+      "Tarjeta de crédito Visa, Mastercard, American Express.",
+      "Tarjeta de débito de cualquier banco peruano.",
+      "Opción de guardar tarjeta para pagos recurrentes."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Andrea Salazar",
+        "comentario": "Guardé mi tarjeta en la app y ahora pago en 3 toques. Super rápido y me llega el comprobante al correo. Además acumulo puntos de mi tarjeta."
+      },
+      {
+        "cliente": "Gonzalo Ríos",
+        "comentario": "Al principio dudé en poner mis datos de tarjeta, pero el proceso es muy seguro. Ya van 6 meses pagando así sin ningún problema."
+      },
+      {
+        "cliente": "Teresa Núñez",
+        "comentario": "Me olvidé de pagar y ya era de noche. Pagué desde la app con mi tarjeta y en 2 minutos todo estaba solucionado. Muy conveniente."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Es seguro ingresar los datos de mi tarjeta en la app?",
+        "respuesta": "Sí, la app utiliza encriptación SSL y cumple con estándares PCI-DSS. Tus datos de tarjeta están protegidos y no se almacenan en texto plano."
+      },
+      {
+        "pregunta": "¿Por qué me rechaza el pago con tarjeta?",
+        "respuesta": "Verifica que tu tarjeta esté habilitada para compras por internet (puedes activarlo desde la app de tu banco), que tenga saldo/crédito disponible y que los datos ingresados sean correctos."
+      },
+      {
+        "pregunta": "¿Puedo pagar con tarjeta de débito?",
+        "respuesta": "Sí, aceptamos tarjetas de débito Visa y Mastercard de cualquier banco peruano. Solo asegúrate de que esté habilitada para compras online."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Descargar App Mi WIN",
+        "url": "https://play.google.com/store/apps/details?id=com.winet.miwin"
+      },
+      {
+        "texto": "Tutorial de pago con tarjeta",
+        "url": "/tutorial-pago-tarjeta-mi-win"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Pasarela de pagos certificada PCI-DSS.",
+      "Encriptación SSL en todas las transacciones.",
+      "Verificación 3D Secure para mayor protección."
+    ]
+  },
+  {
+    "id": "servicio13",
+    "nombre": "Pago de recibos vía bancos y agentes (BCP, BBVA, Interbank, Scotiabank)",
+    "alcance": "Residencial",
+    "categoria": "Medio de pago presencial/online",
+    "descripcion": "WIN permite pagar en ventanilla o agentes y también por canales digitales de bancos como BCP, BBVA, Interbank y Scotiabank, con comisiones específicas por entidad.",
+    "imagen": "/images/pago_bancos_agentes.jpg",
+    "imagen_secundaria": "/images/pago_bancos_agentes_2.jpg",
+    "icon": "🏦",
+    "caracteristicas": [
+      "BCP, BBVA, Interbank, Scotiabank",
+      "Ventanilla, agentes o canales digitales",
+      "Comisiones según entidad"
+    ],
+    "descripcion_detallada": "WIN te ofrece múltiples opciones para pagar tu recibo a través del sistema bancario peruano. Puedes acudir a ventanillas de los principales bancos (BCP, BBVA, Interbank, Scotiabank), pagar en la extensa red de agentes bancarios a nivel nacional, o usar los canales digitales de cada banco (apps móviles, banca por internet). Esta flexibilidad te permite elegir el método que mejor se adapte a tus necesidades, ya sea que prefieras atención presencial o la comodidad de pagar desde tu celular o computadora. Cada entidad puede aplicar comisiones específicas por el servicio de recaudación.",
+    "requisitos_tecnicos": [
+      "Código de cliente WIN o número de recibo",
+      "DNI o documento de identificación",
+      "Efectivo o cuenta bancaria según el canal elegido",
+      "Para canales digitales: app del banco o acceso a banca por internet"
+    ],
+    "beneficios": [
+      "Múltiples opciones: elige entre ventanilla, agentes o canales digitales según tu preferencia.",
+      "Cobertura nacional: miles de puntos de pago en todo el Perú.",
+      "Pago con efectivo: ideal si no tienes tarjeta o billetera digital.",
+      "Horarios extendidos: los agentes suelen tener horarios más amplios que los bancos.",
+      "Comprobante físico o digital según el canal utilizado."
+    ],
+    "casos_de_uso": [
+      "Perfecto para quienes prefieren pagar en efectivo y no usan aplicaciones móviles.",
+      "Ideal para personas que aprovechan sus visitas al banco para pagar varios servicios a la vez.",
+      "Excelente opción en zonas donde hay agentes bancarios pero poca conectividad para apps."
+    ],
+    "opciones_de_pago": [
+      "Ventanilla de bancos: BCP, BBVA, Interbank, Scotiabank (comisión según banco).",
+      "Agentes bancarios: Agente BCP, Agente BBVA, Interbank Agente, etc.",
+      "Banca digital: Apps móviles y banca por internet de cada banco."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Julio Ramos",
+        "comentario": "Siempre pago en el Agente BCP de la esquina de mi casa. Es rápido, me dan mi voucher y listo. Muy cómodo para los que preferimos efectivo."
+      },
+      {
+        "cliente": "Rosa Huamán",
+        "comentario": "Uso la app del BBVA para pagar todos mis servicios incluyendo WIN. En un par de clics ya está pagado y me queda el registro en la app."
+      },
+      {
+        "cliente": "Pedro Alcántara",
+        "comentario": "En mi pueblo no llega bien el internet del celular, así que pago en el agente Interbank cuando voy al mercado. Nunca he tenido problemas."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto cobran de comisión los bancos?",
+        "respuesta": "Las comisiones varían según el banco y el canal. En ventanilla suele ser entre S/1.50 y S/3.00. En agentes puede ser menor o gratis según promociones. Consulta con cada banco."
+      },
+      {
+        "pregunta": "¿Cuánto demora en reflejarse el pago hecho en banco?",
+        "respuesta": "Los pagos en canales bancarios suelen reflejarse en el sistema WIN en un plazo de 24 a 48 horas hábiles, aunque muchas veces es más rápido."
+      },
+      {
+        "pregunta": "¿Qué datos necesito para pagar en el banco?",
+        "respuesta": "Necesitas tu código de cliente WIN (aparece en tu recibo) o puedes buscarlo con tu DNI. El cajero o sistema te mostrará el monto pendiente a pagar."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Ver puntos de pago cercanos",
+        "url": "/puntos-de-pago-win"
+      },
+      {
+        "texto": "Consultar tu código de cliente",
+        "url": "https://miportal.win.pe"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Convenios oficiales con los principales bancos del Perú.",
+      "Sistema de recaudación integrado para actualización de pagos.",
+      "Voucher o comprobante emitido por la entidad bancaria como respaldo."
+    ]
+  },
+  {
+    "id": "servicio14",
+    "nombre": "Atención al cliente por Call Center (017073000 / 080074100)",
+    "alcance": "Soporte",
+    "categoria": "Call center",
+    "descripcion": "Central telefónica para consultas, reclamos y soporte técnico/comercial, incluyendo número fijo 01 707 3000 y línea gratuita 0800 74100.",
+    "imagen": "/images/call_center.jpg",
+    "imagen_secundaria": "/images/call_center_2.jpg",
+    "icon": "📞",
+    "caracteristicas": [
+      "Número fijo: 01 707 3000",
+      "Línea gratuita: 0800 74100",
+      "Disponible 24/7 para clientes"
+    ],
+    "descripcion_detallada": "El Call Center de WIN es tu línea directa para resolver cualquier consulta, realizar reclamos o recibir soporte técnico especializado. Con dos opciones de contacto telefónico: el número fijo 01 707 3000 (con costo de llamada local desde Lima) y la línea gratuita 0800 74100 (sin costo desde cualquier teléfono fijo a nivel nacional), nuestro equipo de asesores está disponible las 24 horas del día, los 7 días de la semana. Ya sea que necesites reportar una falla técnica, consultar sobre tu facturación, solicitar cambios en tu plan o realizar cualquier gestión, nuestro Call Center está preparado para atenderte de manera rápida y eficiente.",
+    "requisitos_tecnicos": [
+      "Teléfono fijo o celular para realizar la llamada",
+      "Código de cliente WIN o DNI del titular para identificación",
+      "Descripción clara de la consulta o problema a reportar",
+      "Para soporte técnico: tener acceso al router y dispositivos afectados"
+    ],
+    "beneficios": [
+      "Atención 24/7: resuelve tus consultas en cualquier momento, incluso fines de semana y feriados.",
+      "Línea gratuita: llama sin costo desde cualquier teléfono fijo con el 0800 74100.",
+      "Soporte técnico especializado: técnicos capacitados para resolver problemas de conexión.",
+      "Gestiones comerciales: cambia de plan, consulta promociones o solicita servicios adicionales.",
+      "Seguimiento de casos: cada consulta genera un ticket para seguimiento hasta su resolución."
+    ],
+    "casos_de_uso": [
+      "Ideal para reportar fallas técnicas que requieren diagnóstico inmediato por parte de un especialista.",
+      "Perfecto para personas que prefieren la atención telefónica sobre canales digitales.",
+      "Excelente para consultas complejas que necesitan explicación detallada o negociación de condiciones."
+    ],
+    "opciones_de_pago": [
+      "Servicio de atención gratuito para clientes WIN.",
+      "Llamada sin costo desde fijos con la línea 0800 74100.",
+      "Costo de llamada local al 01 707 3000 desde Lima."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Margarita Flores",
+        "comentario": "Llamé a las 11pm porque se cayó mi internet y me atendieron de inmediato. El técnico me guió paso a paso y en 15 minutos ya tenía conexión. Excelente servicio 24 horas."
+      },
+      {
+        "cliente": "Alberto Mendoza",
+        "comentario": "Tenía dudas sobre mi facturación y la asesora me explicó todo con paciencia. Me ayudó a entender cada cargo y hasta me ofreció una promoción mejor."
+      },
+      {
+        "cliente": "Silvia Castañeda",
+        "comentario": "Uso la línea 0800 porque es gratis. Siempre me atienden rápido y resuelven mis consultas. El seguimiento por ticket es muy profesional."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre el 01 707 3000 y el 0800 74100?",
+        "respuesta": "Ambos te conectan al mismo Call Center WIN. El 01 707 3000 tiene costo de llamada local, mientras que el 0800 74100 es completamente gratuito desde teléfonos fijos a nivel nacional."
+      },
+      {
+        "pregunta": "¿Puedo llamar desde mi celular a la línea gratuita?",
+        "respuesta": "La línea 0800 74100 es gratuita solo desde teléfonos fijos. Desde celular, te recomendamos llamar al 01 707 3000 (costo de llamada local) o usar nuestro canal de WhatsApp."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo de espera hay normalmente?",
+        "respuesta": "Nos esforzamos por atenderte en menos de 2 minutos. En horarios pico puede haber mayor demanda, pero siempre priorizamos las llamadas por fallas técnicas."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Llamar ahora: 01 707 3000",
+        "url": "tel:017073000"
+      },
+      {
+        "texto": "Llamar gratis: 0800 74100",
+        "url": "tel:080074100"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Call Center propio con personal capacitado en telecomunicaciones.",
+      "Sistema de grabación de llamadas para calidad y respaldo.",
+      "Protocolo de verificación de identidad para proteger tu cuenta."
+    ]
+  },
+  {
+    "id": "servicio15",
+    "nombre": "Atención por WhatsApp",
+    "alcance": "Soporte",
+    "categoria": "Canal digital",
+    "descripcion": "Canal de atención identificado como 'ESCRÍBENOS AL WHATSAPP' en el sitio, que permite contacto comercial/soporte vía WhatsApp.",
+    "imagen": "/images/atencion_whatsapp.jpg",
+    "imagen_secundaria": "/images/atencion_whatsapp_2.jpg",
+    "icon": "💬",
+    "caracteristicas": [
+      "Contacto directo vía WhatsApp",
+      "Respuesta rápida a consultas",
+      "Soporte técnico y comercial"
+    ],
+    "descripcion_detallada": "El canal de WhatsApp de WIN te permite comunicarte de forma rápida y conveniente con nuestro equipo de atención al cliente. Simplemente escríbenos al número oficial de WhatsApp WIN y un asesor te atenderá para resolver consultas comerciales, brindarte soporte técnico básico, informarte sobre promociones, ayudarte con trámites o derivarte al área correspondiente según tu necesidad. Es el canal perfecto para quienes prefieren escribir en lugar de llamar, con la ventaja de poder enviar capturas de pantalla, fotos del router o cualquier información visual que ayude a resolver tu caso más rápido.",
+    "requisitos_tecnicos": [
+      "WhatsApp instalado en tu smartphone",
+      "Número de celular activo con datos o WiFi",
+      "Código de cliente WIN o DNI para identificación",
+      "Conexión a internet para enviar y recibir mensajes"
+    ],
+    "beneficios": [
+      "Comunicación asincrónica: escribe cuando puedas y responde cuando te convenga.",
+      "Envío de multimedia: comparte fotos, capturas o videos para explicar mejor tu problema.",
+      "Historial de conversación: guarda el chat como respaldo de tus gestiones.",
+      "Sin esperas telefónicas: no tienes que permanecer en línea esperando ser atendido.",
+      "Atención personalizada: un asesor real te responde, no un bot automatizado."
+    ],
+    "casos_de_uso": [
+      "Ideal para consultas rápidas que no requieren llamada telefónica ni visita presencial.",
+      "Perfecto para enviar fotos del router o capturas de error cuando tienes problemas técnicos.",
+      "Excelente para quienes están en el trabajo o lugares donde no pueden hablar por teléfono."
+    ],
+    "opciones_de_pago": [
+      "Canal de atención gratuito para todos los clientes WIN.",
+      "Solo requiere conexión a internet (datos o WiFi).",
+      "Sin costos adicionales por usar el servicio."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Carla Benítez",
+        "comentario": "Me encanta poder escribir cuando tengo tiempo. Mandé una foto de un error que me salía y el asesor supo exactamente qué hacer. Muy práctico."
+      },
+      {
+        "cliente": "Miguel Saavedra",
+        "comentario": "Estaba en el trabajo y no podía llamar. Escribí por WhatsApp y me resolvieron todo por chat. Quedó el historial y pude revisar después las instrucciones."
+      },
+      {
+        "cliente": "Yolanda Pinto",
+        "comentario": "Consulté sobre promociones por WhatsApp y me explicaron todas las opciones. Al final cambié mi plan y todo el trámite lo hice por chat. Súper cómodo."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el número de WhatsApp de WIN?",
+        "respuesta": "Puedes encontrar el número oficial de WhatsApp WIN en nuestra página web, en la sección de contacto. Busca el botón 'ESCRÍBENOS AL WHATSAPP' para iniciar la conversación directamente."
+      },
+      {
+        "pregunta": "¿En qué horario atienden por WhatsApp?",
+        "respuesta": "El canal de WhatsApp tiene atención en horario comercial extendido. Puedes escribir en cualquier momento y te responderemos en cuanto un asesor esté disponible."
+      },
+      {
+        "pregunta": "¿Puedo hacer reclamos formales por WhatsApp?",
+        "respuesta": "Por WhatsApp puedes iniciar el proceso y te guiaremos. Para reclamos formales que requieren registro OSIPTEL, te derivaremos al canal correspondiente con todos los pasos."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Escribir por WhatsApp",
+        "url": "https://wa.me/51XXXXXXXXX"
+      },
+      {
+        "texto": "Ver otros canales de contacto",
+        "url": "/contacto-win"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Número oficial verificado de WhatsApp Business.",
+      "Conversaciones protegidas con encriptación de extremo a extremo de WhatsApp.",
+      "Protocolo de verificación de identidad antes de gestiones sensibles."
+    ]
+  },
+  {
+    "id": "servicio16",
+    "nombre": "Solicitud de llamada ('Déjanos tu número y te llamamos')",
+    "alcance": "Soporte",
+    "categoria": "Servicio de callback",
+    "descripcion": "Formulario web donde el usuario deja su número para que WIN le devuelva la llamada desde la central, facilitando la atención sin que el cliente tenga que llamar.",
+    "imagen": "/images/solicitud_llamada.jpg",
+    "imagen_secundaria": "/images/solicitud_llamada_2.jpg",
+    "icon": "📧",
+    "caracteristicas": [
+      "Dejas tu número y te llamamos",
+      "Sin necesidad de esperar en línea",
+      "Atención en horario conveniente"
+    ],
+    "descripcion_detallada": "El servicio de callback 'Déjanos tu número y te llamamos' de WIN te permite solicitar atención telefónica sin tener que esperar en línea. Simplemente completa el formulario en nuestra web con tu número de teléfono, indica el motivo de tu consulta y el horario de tu preferencia, y un asesor de WIN te llamará para atenderte. Es la solución perfecta para quienes tienen poco tiempo, no quieren esperar en cola telefónica, o prefieren recibir la llamada cuando les sea más conveniente. Tú eliges cuándo te contactamos.",
+    "requisitos_tecnicos": [
+      "Acceso a la página web de WIN",
+      "Número de teléfono activo (fijo o celular) donde puedas recibir la llamada",
+      "Descripción breve del motivo de contacto",
+      "Disponibilidad en el horario que indiques para recibir la llamada"
+    ],
+    "beneficios": [
+      "Sin esperas: no tienes que permanecer en línea esperando ser atendido.",
+      "Tú eliges el horario: indica cuándo te es más conveniente recibir la llamada.",
+      "Atención preparada: el asesor ya conoce el motivo de tu consulta antes de llamarte.",
+      "Gratis para ti: WIN asume el costo de la llamada.",
+      "Comodidad total: ideal para cuando estás ocupado y no puedes llamar en el momento."
+    ],
+    "casos_de_uso": [
+      "Perfecto para personas ocupadas que no pueden quedarse esperando en una llamada telefónica.",
+      "Ideal para quienes prefieren recibir atención en un horario específico (almuerzo, después del trabajo, etc.).",
+      "Excelente para consultas comerciales donde prefieres que un asesor te explique opciones sin presión de tiempo."
+    ],
+    "opciones_de_pago": [
+      "Servicio completamente gratuito.",
+      "WIN realiza la llamada sin costo para el cliente.",
+      "No requiere ningún pago ni compromiso."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Fernando Gutiérrez",
+        "comentario": "Dejé mi número porque no tenía tiempo de llamar. Me llamaron exactamente en el horario que pedí y resolvieron mi consulta en minutos. Muy conveniente."
+      },
+      {
+        "cliente": "Rocío Sánchez",
+        "comentario": "Estaba en el trabajo y no podía hacer llamadas. Llené el formulario pidiendo que me llamen a las 7pm y puntualmente recibí la llamada. Excelente servicio."
+      },
+      {
+        "cliente": "Héctor Villanueva",
+        "comentario": "Me gusta que el asesor ya sabía por qué llamaba cuando me contactó. No tuve que explicar todo desde cero. Muy eficiente."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto tiempo tardan en llamarme?",
+        "respuesta": "Nos esforzamos por llamarte en el horario que indicaste. Si solicitas callback en horario de atención, generalmente te contactamos en menos de 2 horas. Fuera de horario, te llamamos al día siguiente."
+      },
+      {
+        "pregunta": "¿Puedo elegir un horario específico para recibir la llamada?",
+        "respuesta": "Sí, el formulario te permite indicar tu horario de preferencia. Haremos lo posible por respetarlo y contactarte cuando te sea más conveniente."
+      },
+      {
+        "pregunta": "¿Qué pasa si no puedo contestar cuando me llaman?",
+        "respuesta": "Intentaremos contactarte hasta 3 veces. Si no podemos comunicarnos, puedes volver a solicitar el callback o utilizar otro canal de atención como WhatsApp o Call Center."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar que te llamemos",
+        "url": "/solicitar-llamada"
+      },
+      {
+        "texto": "Ver otros canales de contacto",
+        "url": "/contacto-win"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Formulario seguro con protección de datos personales.",
+      "Llamada realizada desde número oficial WIN identificable.",
+      "Verificación de identidad antes de gestiones sensibles."
+    ]
+  },
+  {
+    "id": "servicio17",
+    "nombre": "Puntos de venta y módulos presenciales",
+    "alcance": "Comercial / Soporte presencial",
+    "categoria": "Atención presencial",
+    "descripcion": "Oficinas y módulos de venta/atención en distintas ciudades y centros comerciales, donde se pueden contratar planes y hacer gestiones de servicio presencialmente.",
+    "imagen": "/images/puntos_venta_modulos.jpg",
+    "imagen_secundaria": "/images/puntos_venta_modulos_2.jpg",
+    "icon": "🏪",
+    "caracteristicas": [
+      "Contratación de planes",
+      "Gestiones de servicio presenciales",
+      "Atención personalizada"
+    ],
+    "descripcion_detallada": "Los Puntos de Venta y Módulos Presenciales de WIN son espacios físicos ubicados estratégicamente en centros comerciales, galerías y zonas de alto tráfico en las principales ciudades del país. Aquí puedes recibir atención personalizada cara a cara con asesores capacitados que te ayudarán a elegir el plan ideal para tus necesidades, realizar la contratación de servicios, resolver dudas sobre tu cuenta, hacer pagos, solicitar cambios de plan, reportar averías y mucho más. La atención presencial es perfecta para quienes prefieren el trato directo y la asesoría personalizada.",
+    "requisitos_tecnicos": [
+      "Documento de identidad (DNI, CE o pasaporte)",
+      "Recibo de servicio anterior (para gestiones de cuenta existente)",
+      "Comprobante de domicilio para nuevas contrataciones",
+      "No requiere cita previa, atención por orden de llegada"
+    ],
+    "beneficios": [
+      "Atención personalizada: un asesor te guía y resuelve todas tus dudas en persona.",
+      "Gestión inmediata: muchos trámites se completan en el momento.",
+      "Demostración de equipos: conoce routers, decodificadores y equipos antes de contratar.",
+      "Pago en efectivo: opción de pagar tus recibos en efectivo directamente.",
+      "Asesoría completa: compara planes y recibe recomendaciones según tu consumo real."
+    ],
+    "casos_de_uso": [
+      "Ideal para quienes prefieren la atención cara a cara y explicaciones detalladas antes de contratar.",
+      "Perfecto para personas que necesitan ver y conocer los equipos físicamente.",
+      "Excelente para trámites complejos que requieren documentación física o firmas."
+    ],
+    "opciones_de_pago": [
+      "Pago de recibos en efectivo directamente en el módulo.",
+      "Pago con tarjeta de débito/crédito en puntos habilitados.",
+      "Atención gratuita, solo pagas tus servicios contratados."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Carmen Huamán",
+        "comentario": "Fui al módulo del centro comercial y el asesor me explicó todos los planes con paciencia. Me ayudó a elegir el mejor para mi familia. Muy buena atención."
+      },
+      {
+        "cliente": "Jorge Paredes",
+        "comentario": "Prefiero hacer mis trámites en persona. En el punto de venta me resolvieron un problema de facturación en 15 minutos. Muy eficientes."
+      },
+      {
+        "cliente": "Marisol Quispe",
+        "comentario": "Quería ver el router antes de contratar y en el módulo me mostraron todo. Además me hicieron la instalación para el día siguiente. Excelente servicio."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Dónde encuentro los puntos de venta WIN más cercanos?",
+        "respuesta": "Puedes consultar la lista completa de puntos de venta en nuestra web en la sección 'Puntos de Atención' o llamar al Call Center para que te indiquen el más cercano a tu ubicación."
+      },
+      {
+        "pregunta": "¿Necesito sacar cita para ir a un módulo presencial?",
+        "respuesta": "No, la atención es por orden de llegada. Sin embargo, en horarios pico puede haber espera, te recomendamos ir temprano o en horarios de menor afluencia."
+      },
+      {
+        "pregunta": "¿Qué trámites puedo hacer en un punto de venta?",
+        "respuesta": "Puedes contratar nuevos servicios, cambiar de plan, pagar recibos, reportar averías, solicitar mudanzas, hacer consultas y resolver cualquier duda sobre tu cuenta WIN."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Ver puntos de venta cercanos",
+        "url": "/puntos-de-atencion"
+      },
+      {
+        "texto": "Horarios de atención",
+        "url": "/horarios-modulos"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Personal capacitado y certificado por WIN.",
+      "Protocolos de seguridad sanitaria en todos los locales.",
+      "Protección de datos personales según ley vigente."
+    ]
+  },
+  {
+    "id": "servicio18",
+    "nombre": "Atención de Reclamos en línea",
+    "alcance": "Soporte",
+    "categoria": "Gestión OSIPTEL / reclamos",
+    "descripcion": "Plataforma online (en sección 'Atención de Reclamos y Solicitudes en Línea') para registrar reclamos formales según la normativa de OSIPTEL.",
+    "imagen": "/images/reclamos_en_linea.jpg",
+    "imagen_secundaria": "/images/reclamos_en_linea_2.jpg",
+    "icon": "⚖️",
+    "caracteristicas": [
+      "Registro de reclamos formal",
+      "Cumplimiento con normativa OSIPTEL",
+      "Seguimiento de gestión"
+    ],
+    "descripcion_detallada": "La plataforma de Atención de Reclamos en Línea de WIN te permite registrar reclamos formales de manera digital, cumpliendo con toda la normativa establecida por OSIPTEL (Organismo Supervisor de Inversión Privada en Telecomunicaciones). Desde la sección 'Atención de Reclamos y Solicitudes en Línea' en nuestra web, puedes presentar reclamos por facturación, calidad de servicio, instalación, averías no resueltas, y más. Cada reclamo genera un código de seguimiento que te permite monitorear el estado de tu caso. WIN se compromete a responder dentro de los plazos legales establecidos, garantizando tus derechos como usuario de telecomunicaciones.",
+    "requisitos_tecnicos": [
+      "Acceso a la página web de WIN",
+      "Documento de identidad del titular de la cuenta",
+      "Código de cliente o número de servicio",
+      "Descripción detallada del motivo del reclamo",
+      "Evidencia de respaldo si aplica (capturas, fotos, documentos)"
+    ],
+    "beneficios": [
+      "Formalidad legal: tu reclamo queda registrado oficialmente según normativa OSIPTEL.",
+      "Plazos garantizados: WIN debe responder en los tiempos establecidos por ley.",
+      "Seguimiento transparente: código de tracking para monitorear el estado de tu caso.",
+      "Sin desplazamientos: presenta tu reclamo desde casa, 24/7.",
+      "Respaldo documental: recibes constancia digital de tu reclamo presentado."
+    ],
+    "casos_de_uso": [
+      "Ideal para reclamos por cobros indebidos o errores en facturación que no se resolvieron por otros canales.",
+      "Perfecto cuando ya agotaste la atención regular y necesitas escalar formalmente tu caso.",
+      "Necesario para tener respaldo legal si luego decides acudir a OSIPTEL o Indecopi."
+    ],
+    "opciones_de_pago": [
+      "Servicio completamente gratuito.",
+      "No tiene costo presentar un reclamo formal.",
+      "Derecho del usuario garantizado por ley."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Ricardo Flores",
+        "comentario": "Tenía un cobro que no correspondía y por teléfono no me lo solucionaban. Presenté el reclamo en línea y en 10 días me dieron la razón y ajustaron mi factura."
+      },
+      {
+        "cliente": "Patricia Mendoza",
+        "comentario": "El sistema es fácil de usar. Registré mi reclamo, me dieron un código y pude ver el avance. Respondieron dentro del plazo y resolvieron mi problema."
+      },
+      {
+        "cliente": "Eduardo Castillo",
+        "comentario": "Importante tener este canal formal. Mi reclamo quedó documentado y eso me dio tranquilidad. La respuesta fue profesional y favorable."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto tiempo tiene WIN para responder mi reclamo?",
+        "respuesta": "Según la normativa de OSIPTEL, WIN tiene un plazo máximo de 20 días hábiles para resolver reclamos de primera instancia. Te notificaremos la resolución por el medio que indiques."
+      },
+      {
+        "pregunta": "¿Qué hago si no estoy conforme con la respuesta a mi reclamo?",
+        "respuesta": "Puedes presentar un recurso de apelación dentro de los 15 días hábiles siguientes. Si aún no estás conforme, puedes acudir a OSIPTEL como segunda instancia."
+      },
+      {
+        "pregunta": "¿Qué tipos de reclamos puedo presentar en línea?",
+        "respuesta": "Puedes presentar reclamos por facturación, calidad de servicio, falta de servicio, instalación, migración, portabilidad, y cualquier incumplimiento contractual."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Presentar reclamo en línea",
+        "url": "/reclamos-solicitudes"
+      },
+      {
+        "texto": "Consultar estado de mi reclamo",
+        "url": "/seguimiento-reclamo"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Proceso regulado y supervisado por OSIPTEL.",
+      "Cumplimiento con el Reglamento de Atención de Reclamos de Usuarios.",
+      "Constancia digital con validez legal para el usuario."
+    ]
+  },
+  {
+    "id": "servicio19",
+    "nombre": "Solicitudes en línea (altas/bajas/cambios)",
+    "alcance": "Soporte",
+    "categoria": "Trámites en línea",
+    "descripcion": "Servicio web 'Solicitudes en Línea' donde el usuario puede gestionar distintos trámites (por ejemplo, solicitudes asociadas al servicio contratado).",
+    "imagen": "/images/solicitudes_en_linea.jpg",
+    "imagen_secundaria": "/images/solicitudes_en_linea_2.jpg",
+    "icon": "📋",
+    "caracteristicas": [
+      "Trámites digitales completos",
+      "Gestión rápida de cambios de servicio",
+      "Disponible 24/7 en línea"
+    ],
+    "descripcion_detallada": "El servicio de Solicitudes en Línea de WIN es tu centro de trámites digitales donde puedes gestionar todo lo relacionado con tu cuenta sin salir de casa. Desde esta plataforma puedes solicitar altas de servicios adicionales, bajas de servicios que ya no necesitas, cambios de plan, modificaciones en tu cuenta, actualizaciones de datos personales, mudanzas de servicio, suspensiones temporales, reactivaciones y mucho más. Cada solicitud genera un número de ticket que te permite hacer seguimiento hasta su resolución. Es la forma más cómoda y rápida de administrar tus servicios WIN.",
+    "requisitos_tecnicos": [
+      "Acceso a la página web de WIN con cuenta registrada",
+      "Documento de identidad del titular",
+      "Código de cliente o número de servicio",
+      "Datos actualizados de contacto (email y teléfono)"
+    ],
+    "beneficios": [
+      "Todo en un solo lugar: gestiona altas, bajas y cambios desde una sola plataforma.",
+      "Disponible 24/7: realiza tus trámites cuando te sea conveniente, sin horarios.",
+      "Seguimiento en tiempo real: cada solicitud tiene un ticket para monitorear su estado.",
+      "Sin filas ni esperas: evita llamadas telefónicas o visitas presenciales.",
+      "Historial completo: accede al registro de todas tus solicitudes anteriores."
+    ],
+    "casos_de_uso": [
+      "Ideal para solicitar un cambio de plan cuando necesitas más velocidad o quieres reducir costos.",
+      "Perfecto para dar de baja servicios adicionales que ya no utilizas.",
+      "Útil para solicitar mudanza de servicio cuando cambias de domicilio."
+    ],
+    "opciones_de_pago": [
+      "Plataforma de solicitudes completamente gratuita.",
+      "Los trámites de solicitud no tienen costo.",
+      "Solo se cobran los servicios que contrates o cambios que generen diferencia tarifaria."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Andrés Vega",
+        "comentario": "Necesitaba cambiar a un plan con más velocidad y lo hice todo desde la web. En 2 días ya tenía mi nuevo plan activo sin tener que llamar a nadie."
+      },
+      {
+        "cliente": "Liliana Torres",
+        "comentario": "Di de baja la línea telefónica que no usaba directamente en línea. Super fácil, me dieron un ticket y al día siguiente ya estaba procesado."
+      },
+      {
+        "cliente": "Marco Salinas",
+        "comentario": "Me mudé y solicité el traslado de mi servicio por la web. Coordinaron la instalación en mi nuevo domicilio en menos de una semana. Muy eficiente."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto tiempo toma procesar una solicitud?",
+        "respuesta": "El tiempo varía según el tipo de solicitud. Cambios de plan suelen activarse en 24-48 horas. Mudanzas requieren coordinación de visita técnica. Bajas se procesan al cierre del ciclo de facturación."
+      },
+      {
+        "pregunta": "¿Puedo cancelar una solicitud después de enviarla?",
+        "respuesta": "Sí, mientras la solicitud esté en estado 'pendiente' puedes cancelarla desde la misma plataforma. Una vez en proceso, deberás contactar a soporte para evaluar la cancelación."
+      },
+      {
+        "pregunta": "¿Qué solicitudes requieren visita técnica?",
+        "respuesta": "Mudanzas de servicio, instalaciones adicionales y algunos cambios de plan que requieran cambio de equipos necesitan coordinación de visita técnica."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Acceder a Solicitudes en Línea",
+        "url": "/solicitudes-en-linea"
+      },
+      {
+        "texto": "Ver estado de mis solicitudes",
+        "url": "/mis-solicitudes"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Plataforma segura con autenticación de usuario.",
+      "Registro de todas las solicitudes para respaldo del cliente.",
+      "Confirmación por email de cada solicitud realizada."
+    ]
+  },
+  {
+    "id": "servicio20",
+    "nombre": "Libros y formularios digitales de reclamos (Libro de Reclamaciones, formularios OSIPTEL)",
+    "alcance": "Soporte",
+    "categoria": "Cumplimiento regulatorio",
+    "descripcion": "Acceso a Libro de Reclamaciones y formularios de reclamo/recurso de apelación, enlazados a OSIPTEL, como parte del servicio de atención al usuario.",
+    "imagen": "/images/libro_reclamaciones_osiptel.jpg",
+    "imagen_secundaria": "/images/libro_reclamaciones_osiptel_2.jpg",
+    "icon": "⚖️",
+    "caracteristicas": [
+      "Registro de reclamos formal",
+      "Cumplimiento con normativa OSIPTEL",
+      "Seguimiento de gestión"
+    ],
+    "descripcion_detallada": "WIN pone a tu disposición el Libro de Reclamaciones Virtual y los formularios oficiales de OSIPTEL para que puedas ejercer tus derechos como consumidor de servicios de telecomunicaciones. El Libro de Reclamaciones es obligatorio por ley (Código de Protección al Consumidor) y te permite registrar quejas o reclamos que serán atendidos en los plazos establecidos. Además, tienes acceso a los formularios oficiales de OSIPTEL para presentar reclamos de primera instancia, recursos de apelación y quejas por calidad de servicio. Todo con validez legal y respaldo regulatorio.",
+    "requisitos_tecnicos": [
+      "Acceso a internet y navegador web",
+      "Documento de identidad (DNI, CE o RUC)",
+      "Datos del servicio: código de cliente o número de contrato",
+      "Email válido para recibir notificaciones y respuestas"
+    ],
+    "beneficios": [
+      "Respaldo legal: tus reclamos tienen validez oficial ante entidades reguladoras.",
+      "Plazos de ley: la empresa debe responder en los tiempos establecidos por OSIPTEL e Indecopi.",
+      "Escalamiento: si no estás conforme, puedes apelar ante OSIPTEL directamente.",
+      "Trazabilidad: cada registro genera un código de seguimiento.",
+      "Acceso permanente: disponible 24/7 desde la web de WIN."
+    ],
+    "casos_de_uso": [
+      "Cuando necesitas un registro formal de tu queja para tener respaldo legal.",
+      "Si deseas escalar un reclamo no resuelto satisfactoriamente a segunda instancia (OSIPTEL).",
+      "Para cumplir con requisitos legales si planeas una acción ante Indecopi u otra entidad."
+    ],
+    "opciones_de_pago": [
+      "Servicio completamente gratuito.",
+      "Es un derecho del consumidor, sin costo alguno.",
+      "No requiere ningún pago para acceder o registrar reclamos."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Gustavo Ramos",
+        "comentario": "Usé el Libro de Reclamaciones cuando tuve un problema serio. Me respondieron en el plazo legal y resolvieron mi caso. Es importante conocer este derecho."
+      },
+      {
+        "cliente": "Verónica Luna",
+        "comentario": "Presenté una apelación usando los formularios OSIPTEL desde la web de WIN. Todo fue claro y recibí respuesta de OSIPTEL directamente."
+      },
+      {
+        "cliente": "Juan Pablo Herrera",
+        "comentario": "No sabía que existía el Libro de Reclamaciones virtual. Lo usé y mi reclamo fue atendido formalmente. Muy útil tenerlo accesible en la web."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre el Libro de Reclamaciones y los formularios OSIPTEL?",
+        "respuesta": "El Libro de Reclamaciones es para quejas generales amparadas por el Código de Protección al Consumidor. Los formularios OSIPTEL son específicos para reclamos de telecomunicaciones y tienen procedimientos y plazos propios del sector."
+      },
+      {
+        "pregunta": "¿En cuánto tiempo deben responder a mi reclamo del Libro de Reclamaciones?",
+        "respuesta": "Por ley, la empresa tiene 30 días calendario para dar respuesta a un reclamo registrado en el Libro de Reclamaciones."
+      },
+      {
+        "pregunta": "¿Puedo presentar un recurso de apelación si no estoy conforme con la respuesta?",
+        "respuesta": "Sí, tienes derecho a apelar. Para reclamos OSIPTEL, puedes presentar recurso de apelación dentro de los 15 días hábiles siguientes a la notificación de la resolución."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Acceder al Libro de Reclamaciones",
+        "url": "/libro-reclamaciones"
+      },
+      {
+        "texto": "Formularios OSIPTEL",
+        "url": "/formularios-osiptel"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Cumplimiento con Ley N° 29571 - Código de Protección al Consumidor.",
+      "Formularios oficiales homologados por OSIPTEL.",
+      "Registro con validez legal ante entidades reguladoras."
+    ]
+  },
+  {
+    "id": "servicio21",
+    "nombre": "Internet Dedicado para empresas (WIN Empresas)",
+    "alcance": "Empresarial",
+    "categoria": "Conectividad dedicada",
+    "descripcion": "Servicio de acceso a internet dedicado simétrico para empresas, con monitoreo de tráfico online, ancho de banda garantizado y soporte 24/7, sobre una red MPLS y fibra óptica.",
+    "imagen": "/images/internet_dedicado_empresas.jpg",
+    "imagen_secundaria": "/images/internet_dedicado_empresas_2.jpg",
+    "icon": "🏢",
+    "caracteristicas": [
+      "Ancho de banda garantizado",
+      "Red MPLS y fibra óptica",
+      "Monitoreo de tráfico online"
+    ],
+    "descripcion_detallada": "Internet Dedicado de WIN Empresas es la solución de conectividad premium diseñada para organizaciones que requieren rendimiento garantizado y máxima confiabilidad. A diferencia del internet residencial, el servicio dedicado ofrece ancho de banda simétrico (misma velocidad de subida y bajada) con un SLA (Acuerdo de Nivel de Servicio) que garantiza disponibilidad del 99.5% o superior. La conexión corre sobre nuestra red de fibra óptica y tecnología MPLS, con monitoreo proactivo 24/7, reportes de tráfico en tiempo real y soporte técnico especializado. Ideal para empresas con operaciones críticas, sistemas en la nube, videoconferencias frecuentes o transferencia de grandes volúmenes de datos.",
+    "requisitos_tecnicos": [
+      "Disponibilidad de cobertura de fibra óptica empresarial en la ubicación",
+      "Infraestructura de red interna preparada (switches, firewall)",
+      "Contrato empresarial con RUC activo",
+      "Visita técnica previa para evaluación de factibilidad"
+    ],
+    "beneficios": [
+      "Ancho de banda garantizado: velocidad contratada disponible el 100% del tiempo, sin compartir.",
+      "Conexión simétrica: misma velocidad de subida y bajada para aplicaciones bidireccionales.",
+      "SLA contractual: compensación si no se cumple el nivel de servicio acordado.",
+      "Monitoreo 24/7: equipo de NOC vigilando tu conexión proactivamente.",
+      "Escalabilidad: aumenta tu ancho de banda según crezcan tus necesidades."
+    ],
+    "casos_de_uso": [
+      "Empresas con sistemas ERP, CRM o aplicaciones críticas en la nube que requieren conexión estable.",
+      "Organizaciones con múltiples sedes que necesitan interconexión confiable vía VPN o MPLS.",
+      "Negocios que dependen de videoconferencias HD o transferencia de archivos pesados diariamente."
+    ],
+    "opciones_de_pago": [
+      "Planes desde 10 Mbps hasta 1 Gbps simétricos según necesidad.",
+      "Facturación mensual con contrato empresarial.",
+      "Opciones de pago anual con descuento.",
+      "Instalación con costo según complejidad del despliegue."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Corporación Andina SAC",
+        "comentario": "Desde que migramos a Internet Dedicado de WIN, nuestros sistemas en la nube funcionan impecables. La velocidad simétrica ha mejorado enormemente nuestras videoconferencias con clientes internacionales."
+      },
+      {
+        "cliente": "Logística Express Perú",
+        "comentario": "El SLA nos da tranquilidad. Cuando tuvimos una microinterrupción, WIN nos compensó automáticamente. Eso demuestra compromiso con el servicio."
+      },
+      {
+        "cliente": "Estudio Contable Rodríguez & Asociados",
+        "comentario": "El monitoreo proactivo nos ha salvado varias veces. Detectan problemas antes que nosotros y los resuelven. El soporte empresarial es de primer nivel."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre internet dedicado e internet residencial/comercial?",
+        "respuesta": "El internet dedicado ofrece ancho de banda garantizado exclusivo para tu empresa, velocidad simétrica, SLA con compensación, y soporte prioritario 24/7. El residencial comparte el ancho de banda y no ofrece garantías de servicio."
+      },
+      {
+        "pregunta": "¿Qué significa ancho de banda simétrico?",
+        "respuesta": "Significa que la velocidad de subida es igual a la de bajada. Por ejemplo, con 100 Mbps simétricos, tanto subes como bajas archivos a 100 Mbps. Ideal para videoconferencias, backups en la nube y aplicaciones bidireccionales."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo toma la instalación del servicio dedicado?",
+        "respuesta": "Después de la visita técnica de factibilidad, la instalación típica toma entre 15 y 30 días dependiendo de la complejidad del despliegue de fibra hasta tu ubicación."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar cotización empresarial",
+        "url": "/win-empresas/internet-dedicado"
+      },
+      {
+        "texto": "Contactar asesor corporativo",
+        "url": "/win-empresas/contacto"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Red MPLS con redundancia y alta disponibilidad.",
+      "SLA contractual con garantía de uptime 99.5% o superior.",
+      "Centro de Operaciones de Red (NOC) monitoreando 24/7."
+    ]
+  },
+  {
+    "id": "servicio22",
+    "nombre": "Servicios de Data Center para empresas",
+    "alcance": "Empresarial",
+    "categoria": "Data Center / Hosting",
+    "descripcion": "Win Empresas ofrece servicios de Data Center (alojamiento y servicios cloud) en centros de datos propios certificados por eficiencia energética y alta disponibilidad, orientados a empresas.",
+    "imagen": "/images/data_center_empresas.jpg",
+    "imagen_secundaria": "/images/data_center_empresas_2.jpg",
+    "icon": "🖥️",
+    "caracteristicas": [
+      "Centros de datos propios",
+      "Certificación de eficiencia energética",
+      "Alta disponibilidad garantizada"
+    ],
+    "descripcion_detallada": "Los Servicios de Data Center de WIN Empresas proporcionan infraestructura de clase mundial para alojar los sistemas críticos de tu organización. Nuestros centros de datos propios cuentan con certificaciones internacionales de eficiencia energética, sistemas redundantes de energía (UPS y generadores), climatización de precisión, seguridad física 24/7, y conectividad de alta velocidad con múltiples carriers. Ofrecemos desde colocation (alquiler de espacio en rack) hasta servicios cloud completos, incluyendo servidores virtuales, almacenamiento, backup y disaster recovery. Tu infraestructura estará protegida y disponible cuando la necesites.",
+    "requisitos_tecnicos": [
+      "Contrato empresarial con RUC activo",
+      "Definición de requerimientos de espacio, energía y conectividad",
+      "Equipos compatibles con estándares de rack 19\" (para colocation)",
+      "Conectividad a internet o enlace dedicado para acceso remoto"
+    ],
+    "beneficios": [
+      "Infraestructura de nivel empresarial: climatización, energía y seguridad de clase mundial.",
+      "Alta disponibilidad: redundancia en todos los sistemas críticos para uptime garantizado.",
+      "Eficiencia energética: centros de datos certificados que optimizan costos de operación.",
+      "Escalabilidad: crece tu infraestructura según las necesidades de tu negocio.",
+      "Seguridad física: acceso controlado biométrico, vigilancia 24/7 y protección contra incendios."
+    ],
+    "casos_de_uso": [
+      "Empresas que necesitan alojar servidores físicos en un ambiente controlado y seguro.",
+      "Organizaciones que requieren soluciones de disaster recovery y continuidad de negocio.",
+      "Negocios en crecimiento que prefieren cloud privado o híbrido con infraestructura local en Perú."
+    ],
+    "opciones_de_pago": [
+      "Colocation: precio mensual por unidad de rack (U) o rack completo.",
+      "Cloud/IaaS: facturación por recursos consumidos (vCPU, RAM, almacenamiento).",
+      "Contratos anuales con descuentos por compromiso.",
+      "Servicios adicionales (backup, monitoreo, soporte) facturados según consumo."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Financiera Progreso",
+        "comentario": "Migramos nuestros servidores críticos al Data Center de WIN y la diferencia es notable. Cero cortes de energía, temperatura perfecta y acceso seguro cuando necesitamos intervenir físicamente."
+      },
+      {
+        "cliente": "TechSolutions Perú",
+        "comentario": "Como empresa de software, necesitábamos infraestructura confiable para nuestros clientes. El cloud de WIN nos permite escalar rápidamente y la latencia local es excelente."
+      },
+      {
+        "cliente": "Hospital San Martín",
+        "comentario": "La continuidad de nuestros sistemas es crítica. Con el servicio de disaster recovery de WIN tenemos la tranquilidad de que nuestros datos están respaldados y podemos recuperarnos ante cualquier eventualidad."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Qué es colocation y en qué se diferencia del cloud?",
+        "respuesta": "Colocation es alquilar espacio físico en nuestro data center para tus propios servidores. Cloud es usar servidores virtuales que nosotros administramos. Colocation te da control total del hardware; cloud te libera de gestionar infraestructura física."
+      },
+      {
+        "pregunta": "¿Qué certificaciones tienen los Data Centers de WIN?",
+        "respuesta": "Nuestros centros de datos cuentan con certificaciones de eficiencia energética y cumplen estándares internacionales de disponibilidad y seguridad. Contáctanos para detalles específicos de cada ubicación."
+      },
+      {
+        "pregunta": "¿Puedo visitar el Data Center antes de contratar?",
+        "respuesta": "Sí, coordinamos visitas guiadas para clientes potenciales donde podrás conocer nuestras instalaciones, medidas de seguridad y capacidades técnicas."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar cotización Data Center",
+        "url": "/win-empresas/data-center"
+      },
+      {
+        "texto": "Conocer servicios cloud",
+        "url": "/win-empresas/cloud"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Certificación de eficiencia energética en centros de datos.",
+      "Sistemas redundantes de energía (UPS + generadores) y climatización.",
+      "Seguridad física 24/7 con control de acceso biométrico y videovigilancia."
+    ]
+  },
+  {
+    "id": "servicio23",
+    "nombre": "Comunicaciones Unificadas y Telefonía corporativa",
+    "alcance": "Empresarial",
+    "categoria": "Colaboración y voz",
+    "descripcion": "Portafolio de Comunicaciones Unificadas y telefonía para empresas, integrando voz, colaboración y conectividad sobre su red de fibra y servicios digitales avanzados.",
+    "imagen": "/images/comunicaciones_unificadas.jpg",
+    "imagen_secundaria": "/images/comunicaciones_unificadas_2.jpg",
+    "icon": "🤝",
+    "caracteristicas": [
+      "Voz, video y mensajería integrados",
+      "Sobre red fibra óptica",
+      "Servicios digitales avanzados"
+    ],
+    "descripcion_detallada": "Las Comunicaciones Unificadas de WIN Empresas integran todos los canales de comunicación de tu organización en una sola plataforma: telefonía IP, videoconferencias, mensajería instantánea, presencia, y colaboración en tiempo real. Sobre nuestra robusta red de fibra óptica, tu empresa puede comunicarse interna y externamente con calidad de voz HD, realizar reuniones virtuales con múltiples participantes, compartir pantalla y documentos, y mantener a tus equipos conectados desde cualquier lugar. Incluye centralita virtual (PBX en la nube), troncales SIP, números DID, y todas las funcionalidades de telefonía corporativa moderna sin inversión en hardware costoso.",
+    "requisitos_tecnicos": [
+      "Conexión a internet de alta velocidad (preferiblemente fibra WIN)",
+      "Dispositivos compatibles: teléfonos IP, softphones, apps móviles",
+      "Red LAN con QoS configurado para priorizar tráfico de voz/video",
+      "Contrato empresarial con RUC activo"
+    ],
+    "beneficios": [
+      "Todo en uno: voz, video, chat y colaboración desde una sola plataforma.",
+      "Movilidad total: comunícate desde la oficina, casa o cualquier lugar con la app.",
+      "Sin hardware costoso: centralita en la nube, sin inversión en equipos PBX físicos.",
+      "Calidad HD: voz y video de alta definición sobre nuestra red de fibra.",
+      "Escalabilidad inmediata: agrega o reduce extensiones según tu necesidad."
+    ],
+    "casos_de_uso": [
+      "Empresas con equipos remotos o híbridos que necesitan comunicarse fluidamente.",
+      "Organizaciones que quieren modernizar su telefonía tradicional a VoIP sin grandes inversiones.",
+      "Negocios con múltiples sedes que necesitan una solución de comunicación unificada y centralizada."
+    ],
+    "opciones_de_pago": [
+      "Planes por usuario/extensión con facturación mensual.",
+      "Paquetes de minutos o llamadas ilimitadas según destino.",
+      "Contratos anuales con descuentos corporativos.",
+      "Teléfonos IP en venta o alquiler según preferencia."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Grupo Inmobiliario del Sur",
+        "comentario": "Migramos de una central telefónica antigua a las Comunicaciones Unificadas de WIN. Ahora nuestros agentes atienden desde cualquier lugar y las videoconferencias con clientes son impecables."
+      },
+      {
+        "cliente": "Consultora Legal Peruana",
+        "comentario": "La app móvil nos permite recibir llamadas de la oficina en el celular como si estuviéramos en el escritorio. Perfecto para abogados que están frecuentemente en tribunales."
+      },
+      {
+        "cliente": "Distribuidora Nacional SAC",
+        "comentario": "Con 5 sucursales, antes era un caos comunicarnos. Ahora todas las sedes tienen extensiones integradas y las llamadas entre oficinas son gratuitas e instantáneas."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Necesito comprar teléfonos IP especiales?",
+        "respuesta": "Puedes usar teléfonos IP (los vendemos o alquilamos), pero también puedes usar softphones en tu computadora o la app móvil en tu smartphone sin necesidad de equipos adicionales."
+      },
+      {
+        "pregunta": "¿Puedo conservar mi número telefónico actual?",
+        "respuesta": "Sí, realizamos portabilidad numérica para que mantengas tus números actuales. También podemos asignarte nuevos números DID según necesites."
+      },
+      {
+        "pregunta": "¿Qué pasa si se cae el internet? ¿Pierdo las llamadas?",
+        "respuesta": "Configuramos desvíos automáticos a números de respaldo (celulares, por ejemplo) para que nunca pierdas una llamada importante, incluso si hay problemas de conectividad."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar demo de Comunicaciones Unificadas",
+        "url": "/win-empresas/comunicaciones-unificadas"
+      },
+      {
+        "texto": "Cotizar telefonía corporativa",
+        "url": "/win-empresas/telefonia-ip"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Comunicaciones encriptadas para proteger conversaciones sensibles.",
+      "Plataforma con alta disponibilidad y redundancia geográfica.",
+      "Cumplimiento con regulaciones de telecomunicaciones del MTC."
+    ]
+  },
+  {
+    "id": "servicio24",
+    "nombre": "Servicios gestionados de seguridad / Ciberseguridad (incluye CyberSOC)",
+    "alcance": "Empresarial",
+    "categoria": "Ciberseguridad",
+    "descripcion": "Servicios gestionados de seguridad y ciberseguridad para empresas; Win Empresas cuenta con un CyberSOC y ha obtenido acreditación FIRST, lo que respalda sus servicios de monitoreo y respuesta a incidentes.",
+    "imagen": "/images/seguridad_ciberseguridad.jpg",
+    "imagen_secundaria": "/images/seguridad_ciberseguridad_2.jpg",
+    "icon": "🛡️",
+    "caracteristicas": [
+      "Monitoreo y respuesta a incidentes",
+      "Acreditación FIRST",
+      "Protección integral de datos"
+    ],
+    "descripcion_detallada": "Los Servicios Gestionados de Ciberseguridad de WIN Empresas protegen tu organización contra las amenazas digitales más sofisticadas. Nuestro CyberSOC (Centro de Operaciones de Ciberseguridad) opera 24/7 con analistas especializados que monitorean tu infraestructura, detectan amenazas en tiempo real y responden a incidentes de seguridad. Contamos con acreditación FIRST (Forum of Incident Response and Security Teams), reconocimiento internacional que valida nuestras capacidades de respuesta a incidentes. Ofrecemos servicios de firewall gestionado, detección de intrusiones, análisis de vulnerabilidades, protección de endpoints, respuesta a incidentes, y consultoría de seguridad para mantener tu empresa protegida.",
+    "requisitos_tecnicos": [
+      "Infraestructura de red con acceso para monitoreo remoto",
+      "Agentes de seguridad instalados en endpoints (servidores, PCs)",
+      "Conectividad estable para transmisión de logs y alertas",
+      "Contrato empresarial con RUC y acuerdo de confidencialidad"
+    ],
+    "beneficios": [
+      "Protección 24/7: CyberSOC monitoreando tu infraestructura todo el día, todos los días.",
+      "Respuesta rápida: detección y contención de incidentes antes de que causen daño.",
+      "Expertise certificado: equipo con acreditación FIRST y certificaciones de ciberseguridad.",
+      "Cumplimiento normativo: ayudamos a cumplir con regulaciones de protección de datos.",
+      "Reducción de riesgos: identifica y mitiga vulnerabilidades antes de que sean explotadas."
+    ],
+    "casos_de_uso": [
+      "Empresas del sector financiero que requieren altos estándares de seguridad y cumplimiento regulatorio.",
+      "Organizaciones que han sufrido incidentes de seguridad y necesitan fortalecer sus defensas.",
+      "Negocios que manejan datos sensibles de clientes y requieren protección certificada."
+    ],
+    "opciones_de_pago": [
+      "Planes mensuales según tamaño de infraestructura a proteger.",
+      "Paquetes por número de endpoints o servidores monitoreados.",
+      "Servicios de consultoría y auditoría por proyecto.",
+      "Contratos anuales con SLA de respuesta garantizado."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Banco Regional del Norte",
+        "comentario": "El CyberSOC de WIN detectó y bloqueó un intento de intrusión en tiempo real. Su respuesta fue inmediata y profesional. Nos sentimos mucho más seguros con este servicio."
+      },
+      {
+        "cliente": "E-commerce PerúShop",
+        "comentario": "Después de un incidente de ransomware, contratamos los servicios de WIN. Han fortalecido nuestra seguridad completamente y ahora dormimos tranquilos."
+      },
+      {
+        "cliente": "Clínica Santa Rosa",
+        "comentario": "Manejamos datos de salud muy sensibles. WIN nos ayudó a cumplir con las regulaciones y su monitoreo constante nos da la confianza que necesitamos."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Qué es el CyberSOC y cómo funciona?",
+        "respuesta": "El CyberSOC es nuestro Centro de Operaciones de Ciberseguridad. Analistas especializados monitorean tu infraestructura 24/7, analizan alertas, detectan amenazas y responden a incidentes en tiempo real para proteger tu empresa."
+      },
+      {
+        "pregunta": "¿Qué significa la acreditación FIRST?",
+        "respuesta": "FIRST (Forum of Incident Response and Security Teams) es una organización internacional que acredita equipos de respuesta a incidentes. Esta certificación valida que nuestro equipo cumple estándares globales de ciberseguridad."
+      },
+      {
+        "pregunta": "¿Pueden ayudarnos si ya sufrimos un ataque?",
+        "respuesta": "Sí, ofrecemos servicios de respuesta a incidentes para contener ataques activos, investigar el alcance, remediar vulnerabilidades y fortalecer la seguridad para prevenir futuros incidentes."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar evaluación de seguridad",
+        "url": "/win-empresas/ciberseguridad"
+      },
+      {
+        "texto": "Conocer el CyberSOC",
+        "url": "/win-empresas/cybersoc"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Acreditación FIRST para respuesta a incidentes de ciberseguridad.",
+      "Analistas certificados en CISSP, CEH, y otras credenciales reconocidas.",
+      "Cumplimiento con estándares ISO 27001 de gestión de seguridad de la información."
+    ]
+  },
+  {
+    "id": "servicio25",
+    "nombre": "Servicios Cloud y gestión de servicios cloud",
+    "alcance": "Empresarial",
+    "categoria": "Cloud gestionado",
+    "descripcion": "Servicios relacionados con 'servicios cloud, monitoreo, mantenimiento y gestión' para clientes corporativos, integrados con su infraestructura de Data Center.",
+    "imagen": "/images/servicios_cloud.jpg",
+    "imagen_secundaria": "/images/servicios_cloud_2.jpg",
+    "icon": "☁️",
+    "caracteristicas": [
+      "Infraestructura flexible",
+      "Integración con Data Center",
+      "Soporte especializado 24/7"
+    ],
+    "descripcion_detallada": "Los Servicios Cloud de WIN Empresas ofrecen infraestructura como servicio (IaaS) y plataforma como servicio (PaaS) completamente gestionados, alojados en nuestros Data Centers locales en Perú. Obtén servidores virtuales, almacenamiento escalable, bases de datos, balanceadores de carga y todos los componentes que necesitas para tu infraestructura tecnológica, sin la complejidad de administrarla tú mismo. Nuestro equipo de expertos se encarga del monitoreo 24/7, mantenimiento, actualizaciones de seguridad, backups y optimización de rendimiento. Disfruta de los beneficios del cloud con la tranquilidad de tener tus datos en territorio peruano y un equipo local de soporte.",
+    "requisitos_tecnicos": [
+      "Contrato empresarial con RUC activo",
+      "Definición de requerimientos de cómputo, almacenamiento y red",
+      "Conectividad a internet o enlace dedicado para acceso a la nube",
+      "Políticas de seguridad y acceso definidas para usuarios administradores"
+    ],
+    "beneficios": [
+      "Cloud local: datos alojados en Perú con baja latencia y cumplimiento de regulaciones locales.",
+      "Totalmente gestionado: nos encargamos de infraestructura, actualizaciones y seguridad.",
+      "Escalabilidad instantánea: aumenta o reduce recursos según demanda, pagando solo lo que usas.",
+      "Soporte experto 24/7: equipo técnico local disponible para cualquier incidencia.",
+      "Sin inversión de capital: modelo OpEx, sin compra de servidores ni equipos físicos."
+    ],
+    "casos_de_uso": [
+      "Empresas que quieren migrar sus servidores físicos al cloud sin gestionar la infraestructura.",
+      "Startups y negocios en crecimiento que necesitan escalar rápidamente sin inversión inicial.",
+      "Organizaciones que requieren cloud local por regulaciones de residencia de datos en Perú."
+    ],
+    "opciones_de_pago": [
+      "Facturación por consumo: paga solo por los recursos que utilizas (vCPU, RAM, GB).",
+      "Planes reservados: descuentos por compromiso de uso mensual o anual.",
+      "Paquetes predefinidos: combinaciones de recursos a precio fijo para facilitar presupuesto.",
+      "Servicios adicionales (backup, monitoreo avanzado, soporte premium) con costo según nivel."
+    ],
+    "testimonios": [
+      {
+        "cliente": "Startup InnovaPeru",
+        "comentario": "Empezamos con un servidor pequeño y en 6 meses ya teníamos 10 veces más capacidad. Escalar con WIN fue tan fácil como hacer clic. Y lo mejor: todo gestionado por ellos."
+      },
+      {
+        "cliente": "Aseguradora del Pacífico",
+        "comentario": "Por regulación necesitábamos que nuestros datos estén en Perú. El cloud local de WIN nos dio exactamente eso, con el rendimiento y seguridad que exigimos."
+      },
+      {
+        "cliente": "Agencia Digital Creativa",
+        "comentario": "Nos olvidamos de administrar servidores. WIN se encarga de todo y nosotros nos enfocamos en nuestro negocio. El soporte siempre responde rápido cuando lo necesitamos."
+      }
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿En qué se diferencia el cloud gestionado del cloud tradicional?",
+        "respuesta": "En el cloud gestionado, WIN se encarga de toda la administración: monitoreo, parches de seguridad, backups, optimización. Tú solo defines qué necesitas y nosotros lo mantenemos funcionando."
+      },
+      {
+        "pregunta": "¿Puedo migrar mi infraestructura actual al cloud de WIN?",
+        "respuesta": "Sí, ofrecemos servicios de migración para trasladar tus servidores físicos o de otros clouds a nuestra plataforma. Nuestro equipo planifica y ejecuta la migración minimizando el tiempo de inactividad."
+      },
+      {
+        "pregunta": "¿Mis datos están seguros en el cloud?",
+        "respuesta": "Absolutamente. Implementamos encriptación en tránsito y en reposo, firewalls, detección de intrusiones, backups automáticos y cumplimos con estándares de seguridad internacionales."
+      }
+    ],
+    "enlaces_de_contratacion": [
+      {
+        "texto": "Solicitar cotización de cloud",
+        "url": "/win-empresas/cloud"
+      },
+      {
+        "texto": "Agendar consultoría de migración",
+        "url": "/win-empresas/migracion-cloud"
+      }
+    ],
+    "certificaciones_o_seguridad": [
+      "Data Centers certificados en eficiencia energética y alta disponibilidad.",
+      "Encriptación de datos en tránsito (TLS) y en reposo (AES-256).",
+      "Backups automáticos con retención configurable y disaster recovery disponible."
+    ]
+  }
+]
