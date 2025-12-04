@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import type { Servicio } from "../types/Service";
 import ServiceCard from "../components/ServiceCard";
+import ServiceCardSkeleton from "../components/ServiceCardSkeleton";
 import CatalogFilterBar from "../components/CatalogFilterBar";
 
 export default function Home() {
@@ -18,7 +19,37 @@ export default function Home() {
     fetchServicios();
   }, []);
 
-  if (servicios.length === 0) return <div>Cargando servicios...</div>;
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('animate-scroll-in');
+          }
+        });
+      },
+      { threshold: 0.1 }
+    );
+
+    const elements = document.querySelectorAll('.scroll-animate');
+    elements.forEach((el) => observer.observe(el));
+
+    return () => observer.disconnect();
+  }, [servicios]);
+
+  if (servicios.length === 0) {
+    return (
+      <div className="max-w-7xl mx-auto px-4 py-8 animate-fade-in">
+        <h1 className="text-3xl md:text-4xl font-bold text-win-orange mb-2 text-center">Catálogo de Servicios WIN</h1>
+        <p className="text-win-texto text-lg mb-8 text-center">Explora todos los servicios que WIN tiene para ti: soluciones residenciales, empresariales y soporte digital.</p>
+        <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+          {[...Array(8)].map((_, idx) => (
+            <ServiceCardSkeleton key={idx} />
+          ))}
+        </div>
+      </div>
+    );
+  }
 
   const categorias = Array.from(new Set(servicios.map(s => s.categoria).filter(Boolean))).sort();
   const alcances = Array.from(new Set(servicios.map(s => s.alcance).filter(Boolean))).sort();
@@ -49,7 +80,9 @@ export default function Home() {
       <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         {serviciosFiltrados.length > 0 ? (
           serviciosFiltrados.map((servicio) => (
-            <ServiceCard key={servicio.id} servicio={servicio} />
+            <div key={servicio.id} className="scroll-animate opacity-0">
+              <ServiceCard servicio={servicio} />
+            </div>
           ))
         ) : (
           <div className="col-span-full text-center text-win-texto py-8">No se encontraron servicios.</div>
