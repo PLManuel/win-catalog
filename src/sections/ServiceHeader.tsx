@@ -1,8 +1,10 @@
 import type { ServiceHeaderProps } from "../types/Service";
 import { IconCircleCheckFilled, IconChevronLeft } from "@tabler/icons-react";
 import { Link } from "react-router";
+import { useRipple } from "../hooks/useRipple";
 
 export default function ServiceHeader({ servicio }: ServiceHeaderProps) {
+  const { createRipple, RippleContainer } = useRipple();
   return (
     <>
       <Link
@@ -35,11 +37,13 @@ export default function ServiceHeader({ servicio }: ServiceHeaderProps) {
               <a
                 key={idx}
                 href="/contacto"
-                className={`px-4 py-2 rounded-lg font-semibold text-sm transition ${idx === 0
+                onMouseDown={createRipple}
+                className={`relative overflow-hidden px-4 py-2 rounded-lg font-semibold text-sm transition ${idx === 0
                   ? "bg-win-orange text-white hover:bg-win-orange/90"
                   : "border-2 border-win-orange text-win-orange hover:bg-win-orange/5"
                   }`}
               >
+                <RippleContainer />
                 {enlace.texto}
               </a>
             ))}

@@ -9,6 +9,7 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [categoria, setCategoria] = useState("");
   const [alcance, setAlcance] = useState("");
+  const [isTransitioning, setIsTransitioning] = useState(false);
 
   useEffect(() => {
     const fetchServicios = async () => {
@@ -36,6 +37,14 @@ export default function Home() {
 
     return () => observer.disconnect();
   }, [servicios]);
+
+  useEffect(() => {
+    setIsTransitioning(true);
+    const timer = setTimeout(() => {
+      setIsTransitioning(false);
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [search, categoria, alcance]);
 
   if (servicios.length === 0) {
     return (
@@ -77,15 +86,19 @@ export default function Home() {
         onAlcanceChange={setAlcance}
         alcances={alcances}
       />
-      <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+      <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 transition-opacity duration-300 ${isTransitioning ? 'opacity-50' : 'opacity-100'}`}>
         {serviciosFiltrados.length > 0 ? (
-          serviciosFiltrados.map((servicio) => (
-            <div key={servicio.id} className="scroll-animate opacity-0">
+          serviciosFiltrados.map((servicio, idx) => (
+            <div 
+              key={servicio.id} 
+              className={`scroll-animate transition-all duration-300 ${isTransitioning ? 'opacity-0 scale-95' : 'opacity-100 scale-100'}`}
+              style={{ transitionDelay: isTransitioning ? '0ms' : `${idx * 30}ms` }}
+            >
               <ServiceCard servicio={servicio} />
             </div>
           ))
         ) : (
-          <div className="col-span-full text-center text-win-texto py-8">No se encontraron servicios.</div>
+          <div className="col-span-full text-center text-win-texto py-8 animate-fade-in">No se encontraron servicios.</div>
         )}
       </div>
     </div>

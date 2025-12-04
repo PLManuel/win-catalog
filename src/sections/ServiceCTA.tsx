@@ -1,6 +1,9 @@
 import type { ServiceCTAProps } from "../types/Service";
+import { useRipple } from "../hooks/useRipple";
 
 export default function ServiceCTA({ servicio }: ServiceCTAProps) {
+  const { createRipple, RippleContainer } = useRipple();
+
   return (
     <div className="bg-linear-to-r from-win-orange/10 to-win-orange/5 border border-win-orange/20 rounded-xl p-6 text-center">
       <h2 className="text-2xl font-bold text-win-texto mb-2">¿Listo para obtener este servicio?</h2>
@@ -10,8 +13,10 @@ export default function ServiceCTA({ servicio }: ServiceCTAProps) {
       <a
         // href={servicio.enlaces_de_contratacion[0]?.url || "/contacto"}
         href="/contacto"
-        className="inline-block bg-win-orange text-white px-6 py-3 rounded-lg font-bold text-base hover:bg-win-orange/90 transition"
+        onMouseDown={createRipple}
+        className="relative overflow-hidden inline-block bg-win-orange text-white px-6 py-3 rounded-lg font-bold text-base hover:bg-win-orange/90 transition"
       >
+        <RippleContainer />
         {servicio.enlaces_de_contratacion[0]?.texto || "Contratar Ahora"}
       </a>
     </div>
