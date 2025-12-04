@@ -34,7 +34,7 @@ export default function Service() {
   if (!servicio) return <div>Cargando...</div>;
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8 space-y-16">
+    <div className="max-w-7xl mx-auto px-4 py-8 space-y-16 animate-fade-in">
       <ServiceHeader servicio={servicio} />
       <ServiceRequirementsBenefits servicio={servicio} />
       <ServiceUseCases servicio={servicio} />

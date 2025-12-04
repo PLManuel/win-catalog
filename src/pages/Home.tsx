@@ -33,7 +33,7 @@ export default function Home() {
   });
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
+    <div className="max-w-7xl mx-auto px-4 py-8 animate-fade-in">
       <h1 className="text-3xl md:text-4xl font-bold text-win-orange mb-2 text-center">Catálogo de Servicios WIN</h1>
       <p className="text-win-texto text-lg mb-8 text-center">Explora todos los servicios que WIN tiene para ti: soluciones residenciales, empresariales y soporte digital.</p>
       <CatalogFilterBar

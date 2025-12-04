@@ -69,4 +69,5 @@ export interface ServiceCardProps {
 export interface ServiceDialogProps {
   servicio: Servicio;
   onClose: () => void;
+  isClosing?: boolean;
 }

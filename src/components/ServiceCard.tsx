@@ -1,16 +1,22 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import type { ServiceCardProps } from "../types/Service";
 import ServiceDialog from "./ServiceDialog";
 
 export default function ServiceCard({ servicio }: ServiceCardProps) {
   const dialogRef = useRef<HTMLDialogElement | null>(null);
+  const [isClosing, setIsClosing] = useState(false);
 
   const openModal = () => {
+    setIsClosing(false);
     dialogRef.current?.showModal();
   };
 
   const closeModal = () => {
-    dialogRef.current?.close();
+    setIsClosing(true);
+    setTimeout(() => {
+      dialogRef.current?.close();
+      setIsClosing(false);
+    }, 200);
   };
 
   return (
@@ -46,7 +52,7 @@ export default function ServiceCard({ servicio }: ServiceCardProps) {
         </div>
       </button>
 
-      <ServiceDialog ref={dialogRef} servicio={servicio} onClose={closeModal} />
+      <ServiceDialog ref={dialogRef} servicio={servicio} onClose={closeModal} isClosing={isClosing} />
     </div>
   );
 }

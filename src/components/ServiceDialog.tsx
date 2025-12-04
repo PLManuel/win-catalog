@@ -4,7 +4,7 @@ import { IconX, IconTag, IconMapPin, IconBolt, IconListCheck } from "@tabler/ico
 import type { ServiceDialogProps } from "../types/Service";
 
 const ServiceDialog = forwardRef<HTMLDialogElement, ServiceDialogProps>(
-  ({ servicio, onClose }, ref) => {
+  ({ servicio, onClose, isClosing }, ref) => {
     const handleBackdropClick = (e: React.MouseEvent<HTMLDialogElement, MouseEvent>) => {
       if (e.target === e.currentTarget) {
         onClose();
@@ -14,7 +14,7 @@ const ServiceDialog = forwardRef<HTMLDialogElement, ServiceDialogProps>(
     return (
       <dialog
         ref={ref}
-        className="max-w-3xl w-full p-0 rounded-xl shadow-2xl m-auto backdrop:bg-black/40 border-2 border-win-borde bg-win-fondo"
+        className={`max-w-3xl w-full p-0 rounded-xl shadow-2xl m-auto backdrop:bg-black/40 border-2 border-win-borde bg-win-fondo ${isClosing ? 'animate-modal-out' : 'animate-modal-in'}`}
         onClick={handleBackdropClick}
       >
         <button
